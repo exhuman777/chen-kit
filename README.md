@@ -160,9 +160,24 @@ Starts on boot, stays alive if it crashes. Unload with `launchctl unload`.
 
 ### Zo.computer
 
-1. Upload as User Service
-2. Entrypoint: `python3 dashboard.py`
-3. Port: `5555` (or set `PORT` env var)
+Deploy on [Zo.computer](https://zo.computer) in 3 steps:
+
+```bash
+# 1. Clone the repo on your Zo instance
+git clone https://github.com/exhuman777/chen-kit.git
+
+# 2. Set up as User Service
+cd chen-kit
+PORT=5555 python3 dashboard.py
+```
+
+3. In Zo dashboard: create a **User Service** with:
+   - **Working directory:** `chen-kit/`
+   - **Entrypoint:** `python3 dashboard.py`
+   - **Port:** `5555`
+   - **Environment:** `PORT=5555`
+
+That's it -- accessible at `https://your-zo-instance.zo.computer:5555`
 
 ### Any server
 
