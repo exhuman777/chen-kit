@@ -1,12 +1,41 @@
-# CHEN-KIT v2.0
-
-Personal Kitchen Knowledge System — recipes, inventory, diet rules, and knowledge base in one local dashboard.
-
 ```
-┌─┐┬ ┬┌─┐┌┐┌   ┬┌─┬┌┬┐
-│  ├─┤├┤ │││───├┴┐│ │
-└─┘┴ ┴└─┘┘└┘   ┴ ┴┴ ┴
+ ██████╗██╗  ██╗███████╗███╗   ██╗      ██╗  ██╗██╗████████╗
+██╔════╝██║  ██║██╔════╝████╗  ██║      ██║ ██╔╝██║╚══██╔══╝
+██║     ███████║█████╗  ██╔██╗ ██║█████╗█████╔╝ ██║   ██║
+██║     ██╔══██║██╔══╝  ██║╚██╗██║╚════╝██╔═██╗ ██║   ██║
+╚██████╗██║  ██║███████╗██║ ╚████║      ██║  ██╗██║   ██║
+ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝      ╚═╝  ╚═╝╚═╝   ╚═╝
 ```
+
+<p align="center">
+  <strong>CHEN-KIT v2.0</strong>
+</p>
+
+<p align="center">
+  <em>Personal Kitchen Knowledge System</em>
+</p>
+
+<p align="center">
+  <a href="#one-liner-install">Install</a> &middot;
+  <a href="#features">Features</a> &middot;
+  <a href="#adding-your-own-content">Customize</a> &middot;
+  <a href="#deploy">Deploy</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dependencies-zero-purple" alt="zero dependencies" />
+  <img src="https://img.shields.io/badge/python-stdlib%20only-brightgreen" alt="stdlib only" />
+  <img src="https://img.shields.io/badge/recipes-145+-blue" alt="145+ recipes" />
+  <img src="https://img.shields.io/badge/language-PL%20%2F%20EN-orange" alt="PL / EN" />
+</p>
+
+---
+
+**Your recipes, your rules, your kitchen -- all in one place.**
+
+Single-file Python server. No frameworks, no npm, no Docker. Just `python3 dashboard.py` and you're cooking. All data lives in markdown files you own and control.
+
+---
 
 ## One-Liner Install
 
@@ -14,43 +43,41 @@ Personal Kitchen Knowledge System — recipes, inventory, diet rules, and knowle
 git clone https://github.com/exhuman777/chen-kit.git && cd chen-kit && python3 dashboard.py
 ```
 
-Open http://localhost:5555 — that's it. Zero dependencies, pure Python stdlib.
+Open http://localhost:5555 -- done. Custom port: `PORT=8080 python3 dashboard.py`
 
-### Custom port
-
-```bash
-PORT=8080 python3 dashboard.py
-```
-
-### Using the launcher
-
-```bash
-./start.sh
-```
+---
 
 ## Features
 
-- **Recipes** — Store, search, edit. Ingredient availability auto-matched against inventory
-- **Inventory** — Track what you have by category. Add/remove items inline
-- **Knowledge Base** — Diet rules, TCM, Ayurveda, nutritional guidelines (PL/EN bilingual)
-- **Shop List** — Multiple lists with check-off, progress tracking
-- **Constellation** — 3D Three.js visualization of recipe-ingredient-knowledge connections
-- **Keyboard nav** — `j/k` or arrow keys to browse, `/` to search, `Enter` to select
-- **Retro mode** — Toggle green-on-black CRT aesthetic
-- **PL/EN toggle** — Switch interface language
-- **CRUD** — Create, edit, delete recipes and knowledge articles in-browser
-- **Network accessible** — Binds to `0.0.0.0`, accessible from any device on your LAN
+```
+Dashboard ──▶ Recipes (145+ PL/EN, CRUD, ingredient matching)
+          ──▶ Inventory (categories, add/remove inline)
+          ──▶ Knowledge Base (diet rules, TCM, Ayurveda, 25+ articles)
+          ──▶ Shop List (multiple lists, check-off, progress)
+          ──▶ Constellation (3D Three.js visualization)
+          ──▶ About (credits, project info)
+```
+
+- **Smart matching** -- auto-checks which recipes you can make from current inventory
+- **Keyboard nav** -- `j/k` arrows to browse, `/` to search, `Enter` to select
+- **Retro mode** -- toggle green-on-black CRT aesthetic
+- **PL/EN toggle** -- full bilingual interface and content
+- **Network accessible** -- binds to `0.0.0.0`, any device on your LAN can connect
+- **CRUD** -- create, edit, delete recipes and knowledge articles in-browser
+- **Optional semantic search** -- `pip install -r requirements.txt` for AI-powered fuzzy matching
+
+---
 
 ## Folder Structure
 
 ```
-kitchen/
-├── dashboard.py          # Main server (single file, stdlib only)
+chen-kit/
+├── dashboard.py          # Server (single file, stdlib only)
 ├── constellation.html    # 3D visualization
 ├── start.sh              # Launcher script
 ├── recipes/              # Markdown recipe files
 │   └── en/               # English translations
-├── inventory/            # Markdown inventory files
+├── inventory/            # Inventory by category
 │   └── en/               # English translations
 ├── rules/                # Knowledge base articles
 │   └── en/               # English translations
@@ -59,11 +86,13 @@ kitchen/
 └── requirements.txt      # For optional semantic search
 ```
 
+---
+
 ## Adding Your Own Content
 
 ### Recipes
 
-Create a `.md` file in `recipes/`:
+Drop a `.md` file in `recipes/` or use the **+ New Recipe** button:
 
 ```markdown
 # Recipe: Your Recipe Name
@@ -74,17 +103,17 @@ time: 30min
 ## Ingredients
 - [ ] 200g rice
 - [ ] 1 onion
+- [ ] 2 cloves garlic
 
 ## Steps
 1. Cook the rice
-2. Chop the onion
+2. Saute the onion and garlic
+3. Combine and serve
 ```
-
-Or use the **+ New Recipe** button in the dashboard.
 
 ### Knowledge Articles
 
-Create a `.md` file in `rules/`:
+Drop a `.md` file in `rules/`:
 
 ```markdown
 # Article Title
@@ -102,7 +131,7 @@ priority: 2
 
 ### Inventory
 
-Create a `.md` file in `inventory/`:
+Drop a `.md` file in `inventory/`:
 
 ```markdown
 # Pantry
@@ -116,40 +145,38 @@ Create a `.md` file in `inventory/`:
 - [ ] Cumin
 ```
 
-## Optional: Semantic Search
+---
 
-Install dependencies for AI-powered search:
+## Deploy
 
-```bash
-pip install -r requirements.txt
-```
-
-This enables fuzzy/semantic matching across recipes and knowledge articles.
-
-## Auto-Start on macOS
-
-Copy the launchd plist to auto-start CHEN-KIT on boot:
+### Local (macOS auto-start)
 
 ```bash
 cp ai.rufus.chen-kit.plist ~/Library/LaunchAgents/
 launchctl load ~/Library/LaunchAgents/ai.rufus.chen-kit.plist
 ```
 
-To stop:
+Starts on boot, stays alive if it crashes. Unload with `launchctl unload`.
+
+### Zo.computer
+
+1. Upload as User Service
+2. Entrypoint: `python3 dashboard.py`
+3. Port: `5555` (or set `PORT` env var)
+
+### Any server
 
 ```bash
-launchctl unload ~/Library/LaunchAgents/ai.rufus.chen-kit.plist
+PORT=5555 python3 dashboard.py
 ```
 
-## Deploy on Zo.computer
+No build step. No containers. Runs anywhere Python 3 exists.
 
-1. Upload the `kitchen/` folder as a User Service
-2. Set entrypoint: `python3 dashboard.py`
-3. Set port: `5555` (or configure via `PORT` env var)
+---
 
 ## Credits
 
-**Exhuman** — [IG @exhto](https://instagram.com/exhto) · [X @3xhuman](https://x.com/3xhuman)
+**Exhuman** -- [IG @exhto](https://instagram.com/exhto) &middot; [X @3xhuman](https://x.com/3xhuman)
 
 Built with [Claude](https://claude.ai) by Anthropic
 
