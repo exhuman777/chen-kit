@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.shoplist.json
+*.bak
+inbox/
+.claude/
+CLAUDE.md
+.mealplan.json
+.wellness.json

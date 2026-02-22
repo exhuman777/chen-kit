@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>ai.rufus.chen-kit</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>dashboard.py</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/rufflesrufus/Documents/ai-kingdom-starter-kit/Archiwum 3/voice_meme/kitchen</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/Users/rufflesrufus/Rufus/logs/chen-kit.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/rufflesrufus/Rufus/logs/chen-kit.err.log</string>
+</dict>
+</plist>

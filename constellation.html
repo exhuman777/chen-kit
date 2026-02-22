@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Kitchen Constellation 3D</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
+    background: #000;
+    color: #0f0;
+    overflow: hidden;
+}
+#container { width: 100vw; height: 100vh; }
+
+.ui { position: fixed; z-index: 100; pointer-events: none; }
+.ui > * { pointer-events: auto; }
+
+.header {
+    top: 0; left: 0; right: 0;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(180deg, rgba(0,0,0,0.8) 0%, transparent 100%);
+}
+.logo {
+    font-size: 11px;
+    font-weight: 600;
+    color: #0f0;
+    letter-spacing: 3px;
+    text-shadow: 0 0 10px #0f0;
+}
+.back-link {
+    color: #0af;
+    text-decoration: none;
+    font-size: 11px;
+    padding: 6px 12px;
+    border: 1px solid #0af4;
+    border-radius: 4px;
+    background: #0af1;
+}
+.back-link:hover { background: #0af3; box-shadow: 0 0 15px #0af4; }
+
+.controls {
+    bottom: 20px; right: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.ctrl-btn {
+    width: 36px;
+    height: 36px;
+    background: #111;
+    border: 1px solid #333;
+    border-radius: 4px;
+    color: #0f0;
+    font-size: 18px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.ctrl-btn:hover { background: #1a1a1a; border-color: #0f0; box-shadow: 0 0 10px #0f04; }
+
+/* QUANT CRACKED INFO PANEL */
+.info-panel {
+    bottom: 20px; left: 20px;
+    width: 340px;
+    max-height: 500px;
+    background: #0a0a0a;
+    border: 1px solid #1a1a1a;
+    border-radius: 0;
+    overflow: hidden;
+    opacity: 0;
+    transform: translateX(-20px);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.info-panel.visible { opacity: 1; transform: translateX(0); }
+
+.info-header {
+    background: linear-gradient(90deg, #0f02, transparent);
+    border-bottom: 1px solid #0f03;
+    padding: 12px 15px;
+}
+.info-header h3 {
+    font-size: 13px;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 4px;
+    letter-spacing: 0.5px;
+}
+.info-meta {
+    display: flex;
+    gap: 15px;
+    font-size: 10px;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.info-meta .type { color: #0f0; }
+.info-meta .count::before { content: "→ "; color: #333; }
+
+.info-body {
+    padding: 0;
+    max-height: 380px;
+    overflow-y: auto;
+}
+.info-body::-webkit-scrollbar { width: 4px; }
+.info-body::-webkit-scrollbar-track { background: #111; }
+.info-body::-webkit-scrollbar-thumb { background: #333; }
+
+.conn-group {
+    border-bottom: 1px solid #1a1a1a;
+}
+.conn-group-header {
+    padding: 8px 15px;
+    font-size: 9px;
+    color: #555;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: #0d0d0d;
+    position: sticky;
+    top: 0;
+}
+.conn-item {
+    padding: 10px 15px;
+    font-size: 12px;
+    color: #888;
+    cursor: pointer;
+    border-left: 2px solid transparent;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.conn-item:hover {
+    background: #151515;
+    color: #fff;
+    border-left-color: #0f0;
+}
+.conn-item .indicator {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+.conn-item .label { flex: 1; }
+.conn-item .stat {
+    font-size: 10px;
+    color: #444;
+    font-family: inherit;
+}
+
+.info-footer {
+    padding: 10px 15px;
+    background: #0d0d0d;
+    border-top: 1px solid #1a1a1a;
+    font-size: 9px;
+    color: #444;
+    display: flex;
+    justify-content: space-between;
+}
+.info-footer kbd {
+    background: #1a1a1a;
+    padding: 2px 6px;
+    border-radius: 2px;
+    color: #666;
+}
+
+.search-panel { top: 60px; left: 20px; width: 260px; }
+.search-input {
+    width: 100%;
+    padding: 10px 14px;
+    background: #0a0a0a;
+    border: 1px solid #222;
+    border-radius: 0;
+    color: #0f0;
+    font-size: 12px;
+    font-family: inherit;
+}
+.search-input:focus { outline: none; border-color: #0f0; box-shadow: 0 0 20px #0f02; }
+.search-input::placeholder { color: #333; }
+
+.legend {
+    top: 60px; right: 20px;
+    background: #0a0a0a;
+    padding: 12px 15px;
+    border: 1px solid #1a1a1a;
+}
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 10px;
+    color: #555;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.legend-item:last-child { margin-bottom: 0; }
+.legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+.hint {
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #333;
+    font-size: 11px;
+    letter-spacing: 1px;
+    transition: opacity 0.5s;
+}
+.hint.hidden { opacity: 0; pointer-events: none; }
+
+/* 3D Labels */
+.node-label {
+    position: absolute;
+    font-size: 9px;
+    color: #666;
+    white-space: nowrap;
+    pointer-events: none;
+    text-shadow: 0 0 5px #000, 0 0 10px #000;
+    transition: opacity 0.2s;
+}
+.node-label.highlight {
+    color: #fff;
+    font-size: 10px;
+}
+</style>
+</head>
+<body>
+
+<div id="container"></div>
+<div id="labels"></div>
+
+<div class="ui header">
+    <div class="logo">KITCHEN::CONSTELLATION</div>
+    <a href="/" class="back-link">← EXIT</a>
+</div>
+
+<div class="ui search-panel">
+    <input type="text" class="search-input" placeholder="> search nodes..." id="search">
+</div>
+
+<div class="ui legend">
+    <div class="legend-item"><div class="legend-dot" style="background:#ff4488"></div>recipes</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#44ff88"></div>ingredients</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#4488ff"></div>tags</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#ffaa44"></div>knowledge</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#aa44ff"></div>categories</div>
+</div>
+
+<div class="ui controls">
+    <button class="ctrl-btn" id="zoom-in">+</button>
+    <button class="ctrl-btn" id="zoom-out">−</button>
+    <button class="ctrl-btn" id="reset">⟲</button>
+</div>
+
+<div class="ui info-panel" id="info-panel">
+    <div class="info-header">
+        <h3 id="info-title">-</h3>
+        <div class="info-meta">
+            <span class="type" id="info-type">-</span>
+            <span class="count" id="info-count">0 connections</span>
+        </div>
+    </div>
+    <div class="info-body" id="info-body"></div>
+    <div class="info-footer">
+        <span>double-click to deselect</span>
+        <span><kbd>↑</kbd><kbd>↓</kbd> navigate</span>
+    </div>
+</div>
+
+<div class="ui hint" id="hint">
+    drag to rotate · scroll to zoom · click to inspect
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script>
+const DATA = {{DATA}};
+
+const container = document.getElementById('container');
+const labelsContainer = document.getElementById('labels');
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x030308);
+
+const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 1, 5000);
+camera.position.z = 600;
+
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+container.appendChild(renderer.domElement);
+
+const nodes = [];
+const edges = [];
+const nodeMap = new Map();
+const nodeMeshes = [];
+let selectedNode = null;
+let edgeLines = null;
+let highlightLines = null;
+let labelElements = [];
+let lastClickTime = 0;
+
+const COLORS = {
+    recipe: 0xff4488,
+    ingredient: 0x44ff88,
+    tag: 0x4488ff,
+    knowledge: 0xffaa44,
+    category: 0xaa44ff
+};
+
+function createNodes() {
+    const geometry = new THREE.SphereGeometry(1, 16, 16);
+
+    // Recipes - outer sphere (Fibonacci distribution)
+    DATA.recipes.forEach((r, i) => {
+        const phi = Math.acos(-1 + (2 * i) / DATA.recipes.length);
+        const theta = Math.sqrt(DATA.recipes.length * Math.PI) * phi;
+        const radius = 350;
+
+        const node = {
+            id: 'r_' + i,
+            label: r.title,
+            type: 'recipe',
+            data: r,
+            position: new THREE.Vector3(
+                radius * Math.cos(theta) * Math.sin(phi),
+                radius * Math.sin(theta) * Math.sin(phi),
+                radius * Math.cos(phi)
+            ),
+            size: 6
+        };
+        nodes.push(node);
+        nodeMap.set(node.id, node);
+    });
+
+    // Ingredients
+    const ingredientSet = new Map();
+    DATA.recipes.forEach((r, ri) => {
+        r.ingredients.forEach(ing => {
+            const key = ing.toLowerCase();
+            if (!ingredientSet.has(key)) {
+                ingredientSet.set(key, { label: ing, recipes: [] });
+            }
+            ingredientSet.get(key).recipes.push(ri);
+        });
+    });
+
+    let ingIndex = 0;
+    ingredientSet.forEach((data, key) => {
+        const phi = Math.acos(-1 + (2 * ingIndex) / ingredientSet.size);
+        const theta = Math.sqrt(ingredientSet.size * Math.PI) * phi;
+        const radius = 180;
+
+        const node = {
+            id: 'i_' + key,
+            label: data.label,
+            type: 'ingredient',
+            position: new THREE.Vector3(
+                radius * Math.cos(theta) * Math.sin(phi),
+                radius * Math.sin(theta) * Math.sin(phi),
+                radius * Math.cos(phi)
+            ),
+            size: 3,
+            recipes: data.recipes
+        };
+        nodes.push(node);
+        nodeMap.set(node.id, node);
+
+        data.recipes.forEach(ri => {
+            edges.push({ source: 'r_' + ri, target: node.id });
+        });
+
+        ingIndex++;
+    });
+
+    // Tags
+    const tagSet = new Map();
+    DATA.recipes.forEach((r, ri) => {
+        r.tags.forEach(tag => {
+            const key = tag.toLowerCase();
+            if (!tagSet.has(key)) {
+                tagSet.set(key, { label: tag, recipes: [] });
+            }
+            tagSet.get(key).recipes.push(ri);
+        });
+    });
+
+    let tagIndex = 0;
+    tagSet.forEach((data, key) => {
+        const phi = Math.acos(-1 + (2 * tagIndex) / tagSet.size);
+        const theta = Math.sqrt(tagSet.size * Math.PI) * phi;
+        const radius = 60;
+
+        const node = {
+            id: 't_' + key,
+            label: data.label,
+            type: 'tag',
+            position: new THREE.Vector3(
+                radius * Math.cos(theta) * Math.sin(phi),
+                radius * Math.sin(theta) * Math.sin(phi),
+                radius * Math.cos(phi)
+            ),
+            size: 5,
+            recipes: data.recipes
+        };
+        nodes.push(node);
+        nodeMap.set(node.id, node);
+
+        data.recipes.forEach(ri => {
+            edges.push({ source: 'r_' + ri, target: node.id });
+        });
+
+        tagIndex++;
+    });
+
+    // Knowledge articles — outer ring offset from recipes
+    const categorySet = new Map();
+    DATA.rules.forEach((r, i) => {
+        const phi = Math.acos(-1 + (2 * i) / Math.max(DATA.rules.length, 1));
+        const theta = Math.sqrt(Math.max(DATA.rules.length, 1) * Math.PI) * phi;
+        const radius = 280;
+
+        const node = {
+            id: 'k_' + i,
+            label: r.title,
+            type: 'knowledge',
+            data: r,
+            position: new THREE.Vector3(
+                radius * Math.cos(theta) * Math.sin(phi) + 150,
+                radius * Math.sin(theta) * Math.sin(phi),
+                radius * Math.cos(phi)
+            ),
+            size: 5
+        };
+        nodes.push(node);
+        nodeMap.set(node.id, node);
+
+        // Connect to category
+        const cat = r.category || 'general';
+        if (!categorySet.has(cat)) {
+            categorySet.set(cat, { label: cat, articles: [] });
+        }
+        categorySet.get(cat).articles.push(i);
+
+        // Connect knowledge to shared tags
+        (r.tags || []).forEach(tag => {
+            const key = tag.toLowerCase();
+            const tagNodeId = 't_' + key;
+            if (nodeMap.has(tagNodeId)) {
+                edges.push({ source: node.id, target: tagNodeId });
+            }
+        });
+    });
+
+    // Category nodes — center cluster
+    let catIndex = 0;
+    categorySet.forEach((data, key) => {
+        const phi = Math.acos(-1 + (2 * catIndex) / Math.max(categorySet.size, 1));
+        const theta = Math.sqrt(Math.max(categorySet.size, 1) * Math.PI) * phi;
+        const radius = 100;
+
+        const node = {
+            id: 'c_' + key,
+            label: key,
+            type: 'category',
+            position: new THREE.Vector3(
+                radius * Math.cos(theta) * Math.sin(phi) + 150,
+                radius * Math.sin(theta) * Math.sin(phi),
+                radius * Math.cos(phi)
+            ),
+            size: 7,
+            articles: data.articles
+        };
+        nodes.push(node);
+        nodeMap.set(node.id, node);
+
+        data.articles.forEach(ki => {
+            edges.push({ source: 'k_' + ki, target: node.id });
+        });
+
+        catIndex++;
+    });
+
+    // Create meshes
+    nodes.forEach(node => {
+        const mat = new THREE.MeshBasicMaterial({
+            color: COLORS[node.type],
+            transparent: true,
+            opacity: 0.8
+        });
+        const mesh = new THREE.Mesh(geometry, mat);
+        mesh.position.copy(node.position);
+        mesh.scale.setScalar(node.size);
+        mesh.userData = node;
+        scene.add(mesh);
+        nodeMeshes.push(mesh);
+        node.mesh = mesh;
+    });
+
+    createEdgeLines();
+}
+
+function createEdgeLines() {
+    const positions = [];
+    edges.forEach(e => {
+        const s = nodeMap.get(e.source);
+        const t = nodeMap.get(e.target);
+        if (s && t) {
+            positions.push(s.position.x, s.position.y, s.position.z);
+            positions.push(t.position.x, t.position.y, t.position.z);
+        }
+    });
+
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3));
+    const mat = new THREE.LineBasicMaterial({ color: 0x222233, transparent: true, opacity: 0.12 });
+    edgeLines = new THREE.LineSegments(geo, mat);
+    scene.add(edgeLines);
+}
+
+function highlightConnections(node) {
+    if (highlightLines) {
+        scene.remove(highlightLines);
+        highlightLines = null;
+    }
+    clearLabels();
+
+    if (!node) return;
+
+    const positions = [];
+    const connectedNodes = [];
+
+    edges.forEach(e => {
+        if (e.source === node.id || e.target === node.id) {
+            const s = nodeMap.get(e.source);
+            const t = nodeMap.get(e.target);
+            if (s && t) {
+                positions.push(s.position.x, s.position.y, s.position.z);
+                positions.push(t.position.x, t.position.y, t.position.z);
+                connectedNodes.push(e.source === node.id ? t : s);
+            }
+        }
+    });
+
+    if (positions.length > 0) {
+        const geo = new THREE.BufferGeometry();
+        geo.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3));
+        const mat = new THREE.LineBasicMaterial({
+            color: COLORS[node.type],
+            transparent: true,
+            opacity: 0.7
+        });
+        highlightLines = new THREE.LineSegments(geo, mat);
+        scene.add(highlightLines);
+    }
+
+    // Create labels for connected nodes
+    connectedNodes.forEach(n => {
+        createLabel(n, true);
+    });
+    createLabel(node, true);
+}
+
+function createLabel(node, highlight = false) {
+    const div = document.createElement('div');
+    div.className = 'node-label' + (highlight ? ' highlight' : '');
+    div.textContent = node.label;
+    div.dataset.nodeId = node.id;
+    labelsContainer.appendChild(div);
+    labelElements.push({ element: div, node: node });
+}
+
+function clearLabels() {
+    labelElements.forEach(l => l.element.remove());
+    labelElements = [];
+}
+
+function updateLabels() {
+    labelElements.forEach(({ element, node }) => {
+        const pos = node.position.clone();
+        pos.project(camera);
+
+        const x = (pos.x * 0.5 + 0.5) * window.innerWidth;
+        const y = (-pos.y * 0.5 + 0.5) * window.innerHeight;
+
+        // Hide if behind camera
+        if (pos.z > 1) {
+            element.style.opacity = '0';
+        } else {
+            element.style.opacity = '1';
+            element.style.left = (x + 10) + 'px';
+            element.style.top = (y - 5) + 'px';
+        }
+    });
+}
+
+// Controls
+let isDragging = false;
+let prevMouse = { x: 0, y: 0 };
+let autoRotate = true;
+
+container.addEventListener('mousedown', e => {
+    isDragging = true;
+    autoRotate = false;
+    prevMouse = { x: e.clientX, y: e.clientY };
+    document.getElementById('hint').classList.add('hidden');
+});
+
+container.addEventListener('mousemove', e => {
+    if (isDragging) {
+        const dx = e.clientX - prevMouse.x;
+        const dy = e.clientY - prevMouse.y;
+
+        const rotX = new THREE.Matrix4().makeRotationX(dy * 0.002);
+        const rotY = new THREE.Matrix4().makeRotationY(dx * 0.002);
+
+        nodes.forEach(node => {
+            node.position.applyMatrix4(rotX);
+            node.position.applyMatrix4(rotY);
+            node.mesh.position.copy(node.position);
+        });
+
+        updateEdgePositions();
+        if (highlightLines) highlightConnections(selectedNode);
+
+        prevMouse = { x: e.clientX, y: e.clientY };
+    }
+});
+
+container.addEventListener('mouseup', () => { isDragging = false; });
+
+container.addEventListener('wheel', e => {
+    e.preventDefault();
+    camera.position.z += e.deltaY * 0.5;
+    camera.position.z = Math.max(200, Math.min(1500, camera.position.z));
+}, { passive: false });
+
+document.getElementById('zoom-in').addEventListener('click', () => {
+    camera.position.z = Math.max(200, camera.position.z - 100);
+});
+document.getElementById('zoom-out').addEventListener('click', () => {
+    camera.position.z = Math.min(1500, camera.position.z + 100);
+});
+document.getElementById('reset').addEventListener('click', () => {
+    camera.position.z = 600;
+    autoRotate = true;
+    selectNode(null);
+});
+
+function updateEdgePositions() {
+    const positions = [];
+    edges.forEach(e => {
+        const s = nodeMap.get(e.source);
+        const t = nodeMap.get(e.target);
+        if (s && t) {
+            positions.push(s.position.x, s.position.y, s.position.z);
+            positions.push(t.position.x, t.position.y, t.position.z);
+        }
+    });
+    edgeLines.geometry.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3));
+    edgeLines.geometry.attributes.position.needsUpdate = true;
+}
+
+// Raycaster
+const raycaster = new THREE.Raycaster();
+const mouse = new THREE.Vector2();
+
+container.addEventListener('click', e => {
+    const now = Date.now();
+    const isDoubleClick = (now - lastClickTime) < 300;
+    lastClickTime = now;
+
+    mouse.x = (e.clientX / window.innerWidth) * 2 - 1;
+    mouse.y = -(e.clientY / window.innerHeight) * 2 + 1;
+
+    raycaster.setFromCamera(mouse, camera);
+    const intersects = raycaster.intersectObjects(nodeMeshes);
+
+    if (isDoubleClick) {
+        // Double click - deselect
+        selectNode(null);
+    } else if (intersects.length > 0) {
+        const node = intersects[0].object.userData;
+        selectNode(node);
+    }
+    // Single click on empty - keep selection
+});
+
+function selectNode(node) {
+    if (selectedNode && selectedNode.mesh) {
+        selectedNode.mesh.scale.setScalar(selectedNode.size);
+        selectedNode.mesh.material.opacity = 0.8;
+    }
+
+    selectedNode = node;
+    highlightConnections(node);
+
+    // Dim non-connected nodes
+    nodeMeshes.forEach(mesh => {
+        const n = mesh.userData;
+        if (!node) {
+            mesh.material.opacity = 0.8;
+        } else if (n === node) {
+            mesh.material.opacity = 1;
+        } else {
+            const isConnected = edges.some(e =>
+                (e.source === node.id && e.target === n.id) ||
+                (e.target === node.id && e.source === n.id)
+            );
+            mesh.material.opacity = isConnected ? 0.9 : 0.15;
+        }
+    });
+
+    if (node) {
+        node.mesh.scale.setScalar(node.size * 2);
+        node.mesh.material.opacity = 1;
+        showInfo(node);
+    } else {
+        hideInfo();
+    }
+}
+
+function showInfo(node) {
+    const panel = document.getElementById('info-panel');
+    document.getElementById('info-title').textContent = node.label;
+    document.getElementById('info-type').textContent = node.type;
+
+    const connections = [];
+    edges.forEach(e => {
+        if (e.source === node.id) {
+            const t = nodeMap.get(e.target);
+            if (t) connections.push(t);
+        }
+        if (e.target === node.id) {
+            const s = nodeMap.get(e.source);
+            if (s) connections.push(s);
+        }
+    });
+
+    document.getElementById('info-count').textContent = connections.length + ' connections';
+
+    // Group by type
+    const grouped = { recipe: [], ingredient: [], tag: [], knowledge: [], category: [] };
+    connections.forEach(c => {
+        if (grouped[c.type]) grouped[c.type].push(c);
+    });
+
+    let html = '';
+    Object.entries(grouped).forEach(([type, items]) => {
+        if (items.length > 0) {
+            const color = COLORS[type].toString(16).padStart(6, '0');
+            html += `<div class="conn-group">
+                <div class="conn-group-header">${type}s (${items.length})</div>`;
+            items.slice(0, 20).forEach(c => {
+                html += `<div class="conn-item" data-id="${c.id}">
+                    <div class="indicator" style="background:#${color}"></div>
+                    <span class="label">${c.label}</span>
+                </div>`;
+            });
+            if (items.length > 20) {
+                html += `<div class="conn-item" style="color:#333;cursor:default">+${items.length - 20} more</div>`;
+            }
+            html += '</div>';
+        }
+    });
+
+    document.getElementById('info-body').innerHTML = html;
+    panel.classList.add('visible');
+
+    document.querySelectorAll('.conn-item[data-id]').forEach(item => {
+        item.addEventListener('click', () => {
+            const n = nodeMap.get(item.dataset.id);
+            if (n) selectNode(n);
+        });
+    });
+}
+
+function hideInfo() {
+    document.getElementById('info-panel').classList.remove('visible');
+}
+
+// Search
+document.getElementById('search').addEventListener('input', e => {
+    const term = e.target.value.toLowerCase();
+
+    nodeMeshes.forEach(mesh => {
+        const node = mesh.userData;
+        if (term === '') {
+            mesh.material.opacity = selectedNode ? (node === selectedNode ? 1 : 0.8) : 0.8;
+        } else if (node.label.toLowerCase().includes(term)) {
+            mesh.material.opacity = 1;
+        } else {
+            mesh.material.opacity = 0.08;
+        }
+    });
+
+    edgeLines.material.opacity = term ? 0.03 : 0.12;
+});
+
+// Keyboard navigation
+document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+        selectNode(null);
+    }
+});
+
+// Animation
+function animate() {
+    requestAnimationFrame(animate);
+
+    if (autoRotate && !selectedNode) {
+        const rotY = new THREE.Matrix4().makeRotationY(0.0008);
+        nodes.forEach(node => {
+            node.position.applyMatrix4(rotY);
+            node.mesh.position.copy(node.position);
+        });
+        updateEdgePositions();
+    }
+
+    updateLabels();
+    renderer.render(scene, camera);
+}
+
+window.addEventListener('resize', () => {
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+createNodes();
+animate();
+
+setTimeout(() => document.getElementById('hint').classList.add('hidden'), 4000);
+</script>
+
+</body>
+</html>
