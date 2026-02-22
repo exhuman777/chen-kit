@@ -17,8 +17,9 @@
 
 <p align="center">
   <a href="#one-liner-install">Install</a> &middot;
+  <a href="#whats-inside">What's Inside</a> &middot;
   <a href="#features">Features</a> &middot;
-  <a href="#adding-your-own-content">Customize</a> &middot;
+  <a href="#make-it-yours">Make It Yours</a> &middot;
   <a href="#deploy">Deploy</a>
 </p>
 
@@ -44,6 +45,55 @@ git clone https://github.com/exhuman777/chen-kit.git && cd chen-kit && python3 d
 ```
 
 Open http://localhost:5555 -- done. Custom port: `PORT=8080 python3 dashboard.py`
+
+---
+
+## What's Inside
+
+This isn't an empty template. CHEN-KIT ships with a **complete foundation** built by [@exhto](https://instagram.com/exhto) -- 145 recipes, 25 knowledge articles, full inventory system, all in Polish and English. Clone it and you're already cooking.
+
+### 145 Recipes (PL + EN)
+
+Real recipes, tested and organized. A sample of what's included:
+
+| Category | Examples |
+|----------|----------|
+| **Bowls & Mains** | Pad Thai, Kitchari, Tofu Scramble, Shepherd's Pie, Moussaka, Stir-Fry |
+| **Burgers** | Chickpea & Quinoa Burger, Guacamole Burger, Plantway Burger, Mac & Cheese Burger |
+| **Soups** | Pumpkin Soup, Broccoli Ayurveda, Lentil Soup, Power Broth, Pozole |
+| **Sweets** | Chocolate Cake, Cinnamon Cookies, Matcha Muffins, Millionaire Bars, Twixy |
+| **Drinks** | Golden Milk, Bitcoin Mocktail, Cherry Latte, Pecan Smoothie, Ojas Smoothie |
+| **Breakfast** | Coconut Oatmeal, French Toast, Pumpkin Spice Pancakes, Chia Pudding |
+| **Wraps & Snacks** | Falafel Tzatziki, Pistachio Tortilla, Wontons, Empanadas, Tamales |
+
+Every recipe has ingredients with checkbox tracking, step-by-step instructions, tags, and time estimates.
+
+### 25 Knowledge Articles
+
+Deep knowledge base covering nutrition, Traditional Chinese Medicine, and Ayurveda:
+
+- **Core Diet Rules** -- meal timing, breakfast/lunch/dinner guidelines, prohibitions
+- **TCM Practices & Organ Health** -- lung support, kidney vitality, foot soaking rituals
+- **Ayurveda: Balance & Digestion** -- digestive fire (Agni), Vata balancing, building Ojas
+- **Plant Protein Sources** -- complete vegan protein guide
+- **Ayurvedic Spices** -- healing properties and usage
+- **Nervous System Reset** -- recovery practices
+- **Healing Soup Ingredients** -- medicinal broth building
+- **Anti-Aging Teas** -- herbal formulas for longevity
+- **Adzuki Bean Properties** -- TCM superfood deep dive
+- **Post-Travel Balance** -- Ayurvedic recovery protocol
+- **Kitchari Basics** -- the ultimate healing meal
+- **Ghee & Oils** -- when to use what
+- **Tofu Preparation** -- techniques for perfect tofu
+- **Healthy Substitutes** -- swap guide for common ingredients
+
+All articles have Do/Don't sections, priority levels, and cross-linked tags.
+
+### Inventory System
+
+Pre-built category structure for tracking your kitchen stock -- spices, grains, proteins, vegetables, pantry staples. The dashboard auto-matches your inventory against recipe ingredients so you always know what you can cook right now.
+
+> **This is a perfect foundation.** Use it as-is, customize it, add your own recipes, or strip it down to the structure and fill it with your own knowledge. Built by EXHTO as a real daily-use system, not a demo.
 
 ---
 
@@ -75,12 +125,12 @@ chen-kit/
 ├── dashboard.py          # Server (single file, stdlib only)
 ├── constellation.html    # 3D visualization
 ├── start.sh              # Launcher script
-├── recipes/              # Markdown recipe files
-│   └── en/               # English translations
+├── recipes/              # 145 markdown recipe files
+│   └── en/               # English translations (145)
 ├── inventory/            # Inventory by category
 │   └── en/               # English translations
-├── rules/                # Knowledge base articles
-│   └── en/               # English translations
+├── rules/                # 25 knowledge base articles
+│   └── en/               # English translations (25)
 ├── transcripts/          # Voice transcripts (optional)
 ├── search.py             # Semantic search (optional)
 └── requirements.txt      # For optional semantic search
@@ -88,11 +138,13 @@ chen-kit/
 
 ---
 
-## Adding Your Own Content
+## Make It Yours
 
-### Recipes
+Everything is markdown. Add, edit, or delete files -- the dashboard picks them up automatically.
 
-Drop a `.md` file in `recipes/` or use the **+ New Recipe** button:
+### Add a Recipe
+
+Drop a `.md` file in `recipes/` or use the **+ New Recipe** button in the dashboard:
 
 ```markdown
 # Recipe: Your Recipe Name
@@ -111,7 +163,7 @@ time: 30min
 3. Combine and serve
 ```
 
-### Knowledge Articles
+### Add a Knowledge Article
 
 Drop a `.md` file in `rules/`:
 
@@ -129,7 +181,7 @@ priority: 2
 - [ ] Skip breakfast
 ```
 
-### Inventory
+### Add Inventory
 
 Drop a `.md` file in `inventory/`:
 
@@ -191,7 +243,7 @@ No build step. No containers. Runs anywhere Python 3 exists.
 
 ## Credits
 
-**Exhuman** -- [IG @exhto](https://instagram.com/exhto) &middot; [X @3xhuman](https://x.com/3xhuman)
+Created by **Exhuman** -- [IG @exhto](https://instagram.com/exhto) &middot; [X @3xhuman](https://x.com/3xhuman)
 
 Built with [Claude](https://claude.ai) by Anthropic
 
