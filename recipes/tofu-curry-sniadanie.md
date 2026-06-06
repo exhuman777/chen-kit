@@ -11,4 +11,4 @@ source: exhto
 
 ## Steps
 1. Podsmaż cebulę. Dodaj tofu i przyprawy
-2. Dodaj warzywa. Dusz 10 min. Posyp kolendrą
+2. Dodaj warzywa. Duś 10 min. Posyp kolendrą

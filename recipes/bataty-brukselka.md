@@ -11,7 +11,7 @@ source: exhto
 - [ ] 2 łyżki syropu klonowego
 - [ ] Brukselka
 - [ ] 2 łyżki oliwy z oliwek
-- [ ] 1 cm starego imbiru
+- [ ] 1 cm startego imbiru
 - [ ] 2 łyżki sosu sojowego
 - [ ] 1 starta marchewka
 - [ ] Pół ząbka czosnku

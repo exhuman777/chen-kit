@@ -13,5 +13,5 @@ source: exhto
 
 ## Steps
 1. Zrób "jajko lniane"
-2. Wymieszaj zgniecioną ciecierzycy z resztą
+2. Wymieszaj zgniecioną ciecierzycę z resztą
 3. Formuj burgery, piecz 25 min (190C)

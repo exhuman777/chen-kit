@@ -5,7 +5,7 @@ source: exhto
 
 ## Ingredients
 - [ ] Mąka orkiszowa (UWAGA: unikać mąki wg zasad)
-- [ ] Drozdzre, cukier kokosowy
+- [ ] Drożdże, cukier kokosowy
 - [ ] Masło wegańskie, mleko owsiane
 - [ ] Cynamon, sól
 

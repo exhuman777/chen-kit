@@ -8,7 +8,7 @@ source: exhto
 - [ ] Sałata lodowa
 - [ ] Wegański majonez
 - [ ] Zielone tabasco
-- [ ] Ogureczki konserwowe
+- [ ] Ogóreczki konserwowe
 - [ ] Cebula, koperek, szczypiorek
 - [ ] Roślinny kurczak gyros (np. Plantway)
 - [ ] Łyżeczka curry

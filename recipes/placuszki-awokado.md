@@ -4,7 +4,7 @@ time: 20 min
 source: exhto
 
 ## Ingredients
-- [ ] Awokado (rozgniecioe)
+- [ ] Awokado (rozgniecione)
 - [ ] Łyżka siemienia lnianego + wrzątek
 - [ ] 3 łyżki mąki kokosowej
 - [ ] Proszek do pieczenia, sól, pieprz

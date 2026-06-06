@@ -11,5 +11,5 @@ source: exhto
 - [ ] Sos sojowy, olej sezamowy
 
 ## Steps
-1. Usmaż kurczak/tofu. Ugotuj ryż
+1. Usmaż kurczaka/tofu. Ugotuj ryż
 2. Ułóż w misce z warzywami. Polej sosem

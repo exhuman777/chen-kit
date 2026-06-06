@@ -12,5 +12,5 @@ source: exhto
 
 ## Steps
 1. Podsmaż warzywa
-2. Rozgniez ciecierzycę, wymieszaj z resztą
+2. Rozgnieć ciecierzycę, wymieszaj z resztą
 3. Piecz 45 min (180C)

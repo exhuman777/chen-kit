@@ -5,7 +5,7 @@ source: exhto
 
 ## Ingredients
 - [ ] Słoiczek ciecierzycy (odcedzonej)
-- [ ] Miążssz z 1 awokado
+- [ ] Miąższ z 1 awokado
 - [ ] Łyżeczka wasabi
 - [ ] Sok z połówki limonki
 - [ ] Łyżka wegańskiego sosu Worcestershire

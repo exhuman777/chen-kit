@@ -4,7 +4,7 @@ time: 20 min
 source: exhto
 
 ## Ingredients
-- [ ] Aquafaba (plyw z ciecierzycy)
+- [ ] Aquafaba (płyn z ciecierzycy)
 - [ ] Czekolada gorzka (rozpuszczona)
 - [ ] Cukier puder, wanilia
 

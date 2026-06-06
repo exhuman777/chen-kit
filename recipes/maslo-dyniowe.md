@@ -10,4 +10,4 @@ source: exhto
 - [ ] Cynamon, imbir, goździki, wanilia
 
 ## Steps
-1. Gotuj wszystkie składniki w garnku przez 15 min (aż zgstnieje)
+1. Gotuj wszystkie składniki w garnku przez 15 min (aż zgęstnieje)
