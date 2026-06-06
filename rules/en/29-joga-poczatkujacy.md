@@ -21,7 +21,7 @@ source: https://www.youtube.com/@yogaexhto
 - [ ] **Chair** — inhale lengthens the spine, exhale sits lower; tailbone gently tucked.
 - [ ] **Plank and lowering** — elbows close to the body; for beginners the knees–chest–chin variant instead of a full lowering.
 - [ ] **Pigeon** — strong hip opener; skip if the knee hurts, rest in a kneeling position.
-- [ ] **Savasana** — "the most important pose of every sequence, we never neglect it". "Don't do anything anymore, just be. Trust that everything is exactly as it should be."
+- [ ] **Savasana** — "the most important pose of every sequence, we never neglect it". "Don't do anything at all now, just be. Trust that everything is exactly as it should be."
 
 ## Beginner videos
 

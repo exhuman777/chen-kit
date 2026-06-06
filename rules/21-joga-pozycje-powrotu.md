@@ -8,7 +8,7 @@ Joga to nie zawsze 1,5-godzinna praktyka. Czasem to kilka świadomych oddechów 
 
 ## Pozycje
 - [ ] **Pozycja Dziecka (Balasana)** — wyciszenie i regeneracja. Rozluźnia plecy, wycisza układ nerwowy, daje poczucie bezpieczeństwa. Uczy, że odpoczynek też jest częścią praktyki. Warto zostać w niej dłużej.
-- [ ] **Pies z Głową w Dół (Adho Mukha Svanasana)** — ściąga całe ciało do chwili obecnej. Rozciąga tył ciała, porusza energię, daje przestrzeń, by wrócić do oddechu. Przycisk „restart" po ciężkim dniu.
+- [ ] **Pies z Głową w Dół (Adho Mukha Svanasana)** — ściąga całe ciało do chwili obecnej. Rozciąga tył ciała, porusza energię, daje przestrzeń, by wrócić do oddechu. Przycisk „restart” po ciężkim dniu.
 - [ ] **Wykrok** — otwarcie bioder po długim siedzeniu. Uwalnia napięcie i stres z bioder.
 - [ ] **Półmostek (Setu Bandhasana)** — zastrzyk energii. Otwiera klatkę piersiową, jednocześnie regeneruje i pobudza.
 - [ ] **Drzewo (Vrksasana)** — równowaga fizyczna i emocjonalna. Za każdym razem inna, bo idealnie pokazuje stan, w którym jesteśmy.

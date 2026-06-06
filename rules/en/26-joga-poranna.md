@@ -4,7 +4,7 @@ tags: yoga, morning, energy, flow, meditation, breath
 source: https://www.youtube.com/@yogaexhto
 
 ## How Agnieszka Structures a Morning Practice
-- [ ] **Gathering attention in easy seat** — every session opens seated: "feel where your body makes contact with the mat", the crown of the head pulls toward the ceiling lengthening the spine, shoulders drop with the exhale, the face softens.
+- [ ] **Gathering attention in an easy seat** — every session opens seated: "feel where your body makes contact with the mat", the crown of the head pulls toward the ceiling lengthening the spine, shoulders drop with the exhale, the face softens.
 - [ ] **Observing the breath** — first without changing anything: "we change nothing, we only observe". Find where you feel the breath most (belly, chest, nose), only then deepen it. In the longer session, three-part breath: belly → ribs → chest.
 - [ ] **Cat–cow on all fours** — hands under shoulders, knees under hips; the exhale rounds the spine (chin to sternum, tailbone tucked), the inhale opens the chest. Optionally hip circles, "little circles" in both directions.
 - [ ] **Downward dog + forward folds** — first dog of the day, "heels don't have to touch the mat", you can walk it out. Then step to the front of the mat, fold with a loose head and softly bent knees, roll up vertebra by vertebra.

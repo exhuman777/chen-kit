@@ -13,7 +13,7 @@ Better Sleep Yoga — sposób na wyciszenie układu nerwowego, rozluźnienie cia
 ## 2. Rozluźnienie ciała (5–7 min, każda pozycja 1–2 min)
 - [ ] Pozycja Dziecka (Balasana) — rozluźnia plecy i ramiona.
 - [ ] Kot–Krowa (Marjaryasana–Bitilasana) — delikatne rozgrzanie kręgosłupa.
-- [ ] Leżący skręt (Supta Matsyendrasana) — otwiera biodra, usuwa napięcie z dolnych pleców.
+- [ ] Leżący skręt (Supta Matsyendrasana) — otwiera biodra, usuwa napięcie z dolnej części pleców.
 - [ ] Nogi na ścianie (Viparita Karani) — poprawia krążenie i relaksuje.
 
 ## 3. Głębokie otwarcie i uziemienie (5–8 min)
@@ -23,9 +23,9 @@ Better Sleep Yoga — sposób na wyciszenie układu nerwowego, rozluźnienie cia
 
 ## 4. Finał — Savasana / medytacja (5–10 min)
 - [ ] Połóż się na plecach, przykryj kocem.
-- [ ] Yoga Nidra lub medytacja prowadzona, albo afirmacja: „Jestem bezpieczna/y. Moje ciało odpoczywa."
+- [ ] Yoga Nidra lub medytacja prowadzona, albo afirmacja: „Jestem bezpieczna/y. Moje ciało odpoczywa.”
 
 ## 5. Atmosfera
 - [ ] Przyciemnione światło, świeca, olejek lawendowy lub z drzewa sandałowego.
-- [ ] Delikatna muzyka ambient, playlisty „Yoga Nidra Sleep", „Deep Rest".
+- [ ] Delikatna muzyka ambient, playlisty „Yoga Nidra Sleep”, „Deep Rest”.
 - [ ] Oddech Nadi Shodhana (naprzemienny przez nozdrza) — wycisza ciało.
