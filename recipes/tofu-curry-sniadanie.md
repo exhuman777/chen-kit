@@ -1,4 +1,4 @@
-# Recipe: Tofu curry sniadaniowe
+# Recipe: Tofu curry śniadaniowe
 tags: breakfast
 time: 20 min
 source: exhto
@@ -10,5 +10,5 @@ source: exhto
 - [ ] Szpinak, kolendra
 
 ## Steps
-1. Podsmaż cebule. Dodaj tofu i przyprawy
-2. Dodaj warzywa. Dusz 10 min. Posyp kolendra
+1. Podsmaż cebulę. Dodaj tofu i przyprawy
+2. Dodaj warzywa. Dusz 10 min. Posyp kolendrą

@@ -1,4 +1,4 @@
-# Recipe: Uszczesliwiajacy deser jogurtowy
+# Recipe: Uszczęśliwiający deser jogurtowy
 tags: breakfast, dessert
 time: 10 min
 source: exhto
@@ -6,12 +6,12 @@ source: exhto
 ## Ingredients
 - [ ] Jogurt owsiany
 - [ ] Tahini
-- [ ] Miod (lub syrop klonowy)
-- [ ] Orzechy (migdaly, pini)
+- [ ] Miód (lub syrop klonowy)
+- [ ] Orzechy (migdały, pini)
 - [ ] Olej kokosowy, cynamon
-- [ ] Dzem z platkow rozy
+- [ ] Dżem z płatków róży
 
 ## Steps
-1. Podsmaz orzechy na oleju z cynamonem i syropem
-2. Wymieszaj czesc jogurtu z dzemem
-3. Uloz warstwy w miseczce
+1. Podsmaż orzechy na oleju z cynamonem i syropem
+2. Wymieszaj część jogurtu z dżemem
+3. Ułóż warstwy w miseczce

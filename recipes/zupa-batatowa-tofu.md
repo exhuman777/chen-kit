@@ -5,12 +5,12 @@ source: exhto
 
 ## Ingredients
 - [ ] 2 bataty
-- [ ] Bulion, mleko migdalowe
-- [ ] Tofu wedzone
+- [ ] Bulion, mleko migdałowe
+- [ ] Tofu wędzone
 - [ ] Cebula, czosnek
-- [ ] Przyprawy (oregano, papryka wedzona)
+- [ ] Przyprawy (oregano, papryka wędzona)
 
 ## Steps
-1. Ugotuj zupe z batatow
-2. Usmaz kostki tofu z przyprawami
-3. Podawaj zupe z tofu
+1. Ugotuj zupę z batatów
+2. Usmaż kostki tofu z przyprawami
+3. Podawaj zupę z tofu

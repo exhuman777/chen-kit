@@ -4,10 +4,10 @@ time: 30 min
 source: exhto
 
 ## Ingredients
-- [ ] Maka orkiszowa, maka pszenna (UWAGA: unikac maki wg zasad)
-- [ ] Ghee, woda, sol
-- [ ] Dodatki: tahini, miod, daktyle
+- [ ] Mąka orkiszowa, mąka pszenna (UWAGA: unikać mąki wg zasad)
+- [ ] Ghee, woda, sól
+- [ ] Dodatki: tahini, miód, daktyle
 
 ## Steps
-1. Zagniec ciasto
-2. Smaz placki na ghee
+1. Zagnieć ciasto
+2. Smaż placki na ghee

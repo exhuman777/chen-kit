@@ -1,13 +1,13 @@
-# Recipe: Rozano-Wisniowe Latte
+# Recipe: Różano-Wiśniowe Latte
 tags: drink
 time: 5 min
 source: exhto
 
 ## Ingredients
-- [ ] Mleko roslinne
+- [ ] Mleko roślinne
 - [ ] Espresso
-- [ ] Syrop wisniowy
-- [ ] Woda rozana, wanilia
+- [ ] Syrop wiśniowy
+- [ ] Woda różana, wanilia
 
 ## Steps
-1. Wlej syrop, aromaty, mleko i kawe
+1. Wlej syrop, aromaty, mleko i kawę

@@ -1,21 +1,21 @@
-# Recipe: Bagietka z weganskim kurczakiem
+# Recipe: Bagietka z wegańskim kurczakiem
 tags: lunch, dinner
 time: 15 min
 source: exhto
 
 ## Ingredients
 - [ ] Bagietka
-- [ ] Salata lodowa
-- [ ] Weganski majonez
+- [ ] Sałata lodowa
+- [ ] Wegański majonez
 - [ ] Zielone tabasco
 - [ ] Ogureczki konserwowe
 - [ ] Cebula, koperek, szczypiorek
-- [ ] Roslinny kurczak gyros (np. Plantway)
-- [ ] Lyzeczka curry
-- [ ] Weganski ser w plastrach
+- [ ] Roślinny kurczak gyros (np. Plantway)
+- [ ] Łyżeczka curry
+- [ ] Wegański ser w plastrach
 
 ## Steps
-1. Podgrzej bagietke
-2. Zrob sos z majonezu, tabasco, ogorkow i ziol
-3. Usmaz kurczaka z cebula i curry
-4. Zloz kanapke: salata, sos, kurczak, ser
+1. Podgrzej bagietkę
+2. Zrób sos z majonezu, tabasco, ogórków i ziół
+3. Usmaż kurczaka z cebulą i curry
+4. Złóż kanapkę: sałata, sos, kurczak, ser

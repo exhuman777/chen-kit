@@ -1,17 +1,17 @@
-# Recipe: Ciepla salatka z soczewica, batatem i rukola
+# Recipe: Ciepła sałatka z soczewicą, batatem i rukolą
 tags: lunch, dinner
 time: 40 min
 source: exhto
 
 ## Ingredients
 - [ ] Batat
-- [ ] 100 g brazowej soczewicy
+- [ ] 100 g brązowej soczewicy
 - [ ] Rukola
 - [ ] Cebula, czosnek
-- [ ] Orzechy wloskie, pestki dyni
+- [ ] Orzechy włoskie, pestki dyni
 - [ ] Sos: oliwa, limonka, musztarda
 
 ## Steps
-1. Upiecz batata. Ugotuj soczewice
-2. Podsmaz cebule z soczewica
-3. Wymieszaj z rukola i sosem
+1. Upiecz batata. Ugotuj soczewicę
+2. Podsmaż cebulę z soczewicą
+3. Wymieszaj z rukolą i sosem

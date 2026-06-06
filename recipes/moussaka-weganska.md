@@ -1,14 +1,14 @@
-# Recipe: Weganska Moussaka (z cukinia)
+# Recipe: Wegańska Moussaka (z cukinią)
 tags: dinner
 time: 60 min
 source: exhto
 
 ## Ingredients
-- [ ] Skladniki z przepisu Minimalist Baker
-- [ ] Cukinia (zamiast baklazana)
+- [ ] Składniki z przepisu Minimalist Baker
+- [ ] Cukinia (zamiast bakłażana)
 
 ## Steps
-1. Przygotuj wg przepisu, uzywajac cukinii
+1. Przygotuj wg przepisu, używając cukinii
 
 ## Notes
-Przepis bazuje na Minimalist Baker, ale autorka nie lubi baklazana.
+Przepis bazuje na Minimalist Baker, ale autorka nie lubi bakłażana.

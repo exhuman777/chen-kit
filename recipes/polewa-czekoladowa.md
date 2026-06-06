@@ -1,4 +1,4 @@
-# Recipe: Weganska Polewa Czekoladowa
+# Recipe: Wegańska Polewa Czekoladowa
 tags: dessert
 time: 5 min
 source: exhto
@@ -9,4 +9,4 @@ source: exhto
 - [ ] Syrop klonowy
 
 ## Steps
-1. Podgrzej mleko, rozpusc czekolade
+1. Podgrzej mleko, rozpuść czekoladę

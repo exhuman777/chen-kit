@@ -1,15 +1,15 @@
-# Recipe: Salatka z Soczewicy
+# Recipe: Sałatka z Soczewicy
 tags: lunch, dinner
 time: 40 min
 source: exhto
 
 ## Ingredients
-- [ ] 1 szklanka soczewicy (zielona/brazowa)
-- [ ] Ogorek, pomidorki koktajlowe
+- [ ] 1 szklanka soczewicy (zielona/brązowa)
+- [ ] Ogórek, pomidorki koktajlowe
 - [ ] Czerwona cebula, natka pietruszki
-- [ ] Feta (opcjonalnie - UWAGA: unikac sera wg zasad)
+- [ ] Feta (opcjonalnie - UWAGA: unikać sera wg zasad)
 - [ ] Sos: oliwa, cytryna, czosnek
 
 ## Steps
-1. Ugotuj soczewice
-2. Pokroj warzywa. Wymieszaj z sosem
+1. Ugotuj soczewicę
+2. Pokrój warzywa. Wymieszaj z sosem

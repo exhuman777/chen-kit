@@ -1,14 +1,14 @@
-# Recipe: Ciasteczka czekoladowo-pomaranczowe
+# Recipe: Ciasteczka czekoladowo-pomarańczowe
 tags: dessert
 time: 25 min
 source: exhto
 
 ## Ingredients
-- [ ] Maka pszenna (80g), maka owsiana (25g)
-- [ ] Siemie lniane (namoczone)
-- [ ] Kakao, cukier brazowy
-- [ ] Olej, ekstrakt pomaranczowy, skorka pomaranczowa
-- [ ] Czekolada weganska (kawalki)
+- [ ] Mąka pszenna (80g), mąka owsiana (25g)
+- [ ] Siemię lniane (namoczone)
+- [ ] Kakao, cukier brązowy
+- [ ] Olej, ekstrakt pomarańczowy, skórka pomarańczowa
+- [ ] Czekolada wegańska (kawałki)
 
 ## Steps
-1. Wymieszaj skladniki. Formuj kulki. Piecz 14 min w 180C
+1. Wymieszaj składniki. Formuj kulki. Piecz 14 min w 180C

@@ -1,11 +1,11 @@
-# Recipe: Weganski Eggnog
+# Recipe: Wegański Eggnog
 tags: drink
 time: 10 min
 source: exhto
 
 ## Ingredients
-- [ ] Mleczko kokosowe, mleko roslinne
-- [ ] Syrop klonowy, maslo orzechowe (UWAGA: unikac wg zasad)
+- [ ] Mleczko kokosowe, mleko roślinne
+- [ ] Syrop klonowy, masło orzechowe (UWAGA: unikać wg zasad)
 - [ ] Przyprawy korzenne
 - [ ] Alkohol (opcjonalnie)
 

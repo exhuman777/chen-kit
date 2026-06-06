@@ -1,13 +1,13 @@
-# Recipe: Radosna salatka
+# Recipe: Radosna sałatka
 tags: lunch, salad
 time: 15 min
 source: exhto
 
 ## Ingredients
-- [ ] Mix salat (rukola, szpinak)
+- [ ] Mix sałat (rukola, szpinak)
 - [ ] Burak pieczony, marchewka
-- [ ] Awokado, ogorek
-- [ ] Orzechy wloskie, sos winegret
+- [ ] Awokado, ogórek
+- [ ] Orzechy włoskie, sos winegret
 
 ## Steps
-1. Pokroj warzywa. Wymieszaj z salatami. Polej sosem
+1. Pokrój warzywa. Wymieszaj z sałatami. Polej sosem

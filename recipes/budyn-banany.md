@@ -1,14 +1,14 @@
-# Recipe: Budyn waniliowy z bananami
+# Recipe: Budyń waniliowy z bananami
 tags: dessert
 time: 15 min
 source: exhto
 
 ## Ingredients
-- [ ] Budyn waniliowy (sojowy)
+- [ ] Budyń waniliowy (sojowy)
 - [ ] Cukier muscovado
-- [ ] Banany smazone z syropem klonowym
+- [ ] Banany smażone z syropem klonowym
 - [ ] Krem orzechowy
 - [ ] Herbatniki
 
 ## Steps
-1. Ugotuj budyn. Podawaj z dodatkami
+1. Ugotuj budyń. Podawaj z dodatkami

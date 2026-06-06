@@ -11,5 +11,5 @@ source: PDF ayurvedic
 - [ ] Garam masala, chili
 
 ## Steps
-1. Ugotuj soczewice z kurkuma. Przygotuj tadka
+1. Ugotuj soczewicę z kurkumą. Przygotuj tadka
 2. Dodaj pomidory i szpinak. Gotuj 15 min. Posyp garam masala

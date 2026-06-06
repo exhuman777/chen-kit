@@ -4,9 +4,9 @@ time: 5 min
 source: exhto
 
 ## Ingredients
-- [ ] 6 lyzeczek sezamu (bialy/czarny)
-- [ ] Sol himalajska
+- [ ] 6 łyżeczek sezamu (biały/czarny)
+- [ ] Sól himalajska
 
 ## Steps
-1. Upraz sezam z sola
-2. Zmiel w mozdzerzu
+1. Upraż sezam z solą
+2. Zmiel w moździerzu

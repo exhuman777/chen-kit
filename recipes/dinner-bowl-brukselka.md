@@ -1,4 +1,4 @@
-# Recipe: Dinner bowl z brukselka
+# Recipe: Dinner bowl z brukselką
 tags: dinner
 time: 35 min
 source: exhto
@@ -10,5 +10,5 @@ source: exhto
 - [ ] Sos tahini-cytrynowy
 
 ## Steps
-1. Piecz brukselke 25 min w 200C. Ugotuj kasze
-2. Uloz wszystko w misce. Polej sosem
+1. Piecz brukselkę 25 min w 200C. Ugotuj kaszę
+2. Ułóż wszystko w misce. Polej sosem

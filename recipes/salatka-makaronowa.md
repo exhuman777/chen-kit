@@ -1,13 +1,13 @@
-# Recipe: Salatka makaronowa
+# Recipe: Sałatka makaronowa
 tags: lunch, salad
 time: 20 min
 source: exhto
 
 ## Ingredients
-- [ ] Makaron krotki (penne, fusilli)
-- [ ] Ogorek, pomidor, papryka
+- [ ] Makaron krótki (penne, fusilli)
+- [ ] Ogórek, pomidor, papryka
 - [ ] Oliwki, kukurydza
-- [ ] Majonez weganski lub winegret
+- [ ] Majonez wegański lub winegret
 
 ## Steps
-1. Ugotuj makaron. Ostudz. Wymieszaj z warzywami i sosem
+1. Ugotuj makaron. Ostudź. Wymieszaj z warzywami i sosem

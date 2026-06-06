@@ -1,14 +1,14 @@
-# Recipe: Ojasowe Smoothie na cieplo
+# Recipe: Ojasowe Smoothie na ciepło
 tags: drink, breakfast, ayurveda
 time: 10 min
 source: exhto
 
 ## Ingredients
-- [ ] Miod (lub syrop klonowy)
-- [ ] 10 orzechow pecan
+- [ ] Miód (lub syrop klonowy)
+- [ ] 10 orzechów pecan
 - [ ] Cynamon
-- [ ] 2 szklanki mleka migdalowego (cieplego)
-- [ ] 3 swieze daktyle
+- [ ] 2 szklanki mleka migdałowego (ciepłego)
+- [ ] 3 świeże daktyle
 
 ## Steps
-1. Zblenduj wszystko. Podawaj cieple
+1. Zblenduj wszystko. Podawaj ciepłe

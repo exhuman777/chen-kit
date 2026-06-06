@@ -5,10 +5,10 @@ source: exhto
 
 ## Ingredients
 - [ ] Burger Plantway
-- [ ] Bulka hamburgerowa
-- [ ] Sos ogorkowo-cebulkowy
-- [ ] Salata, ser weganski, pomidor
+- [ ] Bułka hamburgerowa
+- [ ] Sos ogórkowo-cebulkowy
+- [ ] Sałata, ser wegański, pomidor
 
 ## Steps
-1. Usmaz burgera
-2. Zloz z dodatkami
+1. Usmaż burgera
+2. Złóż z dodatkami

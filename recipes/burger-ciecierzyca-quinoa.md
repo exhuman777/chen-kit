@@ -1,17 +1,17 @@
-# Recipe: Burger z Ciecierzycy i Komosy Ryzowej
+# Recipe: Burger z Ciecierzycy i Komosy Ryżowej
 tags: lunch, dinner
 time: 40 min
 source: exhto
 
 ## Ingredients
-- [ ] Pol sloika ciecierzycy
-- [ ] 30 g komosy ryzowej (ugotowanej)
+- [ ] Pół słoika ciecierzycy
+- [ ] 30 g komosy ryżowej (ugotowanej)
 - [ ] Cebula, czosnek
-- [ ] Siemie lniane (jako jajko)
-- [ ] Maka owsiana (3 lyzki)
-- [ ] Kmin, papryka wedzona
+- [ ] Siemię lniane (jako jajko)
+- [ ] Mąka owsiana (3 łyżki)
+- [ ] Kmin, papryka wędzona
 
 ## Steps
-1. Zrob "jajko lniane"
-2. Wymieszaj zgnieciona ciecierzycy z reszta
+1. Zrób "jajko lniane"
+2. Wymieszaj zgniecioną ciecierzycy z resztą
 3. Formuj burgery, piecz 25 min (190C)

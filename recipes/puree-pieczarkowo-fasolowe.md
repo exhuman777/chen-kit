@@ -4,17 +4,17 @@ time: 30 min
 source: exhto
 
 ## Ingredients
-- [ ] 2 lyzki oliwy
+- [ ] 2 łyżki oliwy
 - [ ] Cebula czerwona, Czosnek
 - [ ] Pieczarki
-- [ ] Sloiczek bialej fasolki
+- [ ] Słoiczek białej fasolki
 - [ ] Seler naciowy
-- [ ] Tymianek, Ziola prowansalskie
+- [ ] Tymianek, Zioła prowansalskie
 - [ ] 500 ml bulionu
-- [ ] 3 lyzki maki ryzowej
+- [ ] 3 łyżki mąki ryżowej
 - [ ] 60 ml mleczka kokosowego
-- [ ] Ziemniaki, maslo weganskie, mleko (do puree)
+- [ ] Ziemniaki, masło wegańskie, mleko (do puree)
 
 ## Steps
-1. Sos: Podsmaz cebule, pieczarki (10 min). Dodaj seler, czosnek. Dodaj ziola, bulion, fasolke, przyprawy, mleczko i make. Gotuj az zgestnieje
-2. Puree: Ugotuj ziemniaki, ubij z maslem i mlekiem
+1. Sos: Podsmaż cebulę, pieczarki (10 min). Dodaj seler, czosnek. Dodaj zioła, bulion, fasolkę, przyprawy, mleczko i mąkę. Gotuj aż zgęstnieje
+2. Puree: Ugotuj ziemniaki, ubij z masłem i mlekiem

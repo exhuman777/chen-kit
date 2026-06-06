@@ -1,17 +1,17 @@
-# Recipe: Pieczen z soczewicy
+# Recipe: Pieczeń z soczewicy
 tags: dinner
 time: 60 min
 source: exhto
 
 ## Ingredients
 - [ ] 2 szklanki ugotowanej soczewicy
-- [ ] 1 szklanka orzechow
+- [ ] 1 szklanka orzechów
 - [ ] Pieczarki, cebula, czosnek, marchew
-- [ ] Platki owsiane, bulka tarta
-- [ ] Sos sojowy, koncentrat, siemie lniane
+- [ ] Płatki owsiane, bułka tarta
+- [ ] Sos sojowy, koncentrat, siemię lniane
 - [ ] Glazura: ketchup, syrop klonowy
 
 ## Steps
-1. Podsmaz warzywa
-2. Wymieszaj z soczewica i reszta
-3. Piecz w keksowce 45-50 min (180C)
+1. Podsmaż warzywa
+2. Wymieszaj z soczewicą i resztą
+3. Piecz w keksówce 45-50 min (180C)

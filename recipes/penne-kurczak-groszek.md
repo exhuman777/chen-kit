@@ -1,16 +1,16 @@
-# Recipe: Penne z weganskim kurczakiem i groszkiem
+# Recipe: Penne z wegańskim kurczakiem i groszkiem
 tags: lunch, dinner
 time: 20 min
 source: exhto
 
 ## Ingredients
 - [ ] Kurczak Plantway
-- [ ] Sloiczek groszku
+- [ ] Słoiczek groszku
 - [ ] 250 g penne
 - [ ] 200 ml mleczka kokosowego
-- [ ] Ser weganski, platki drozdowe
+- [ ] Ser wegański, płatki drożdżowe
 - [ ] Kumin, limonka
 
 ## Steps
-1. Podsmaz kurczaka z kuminem. Dodaj groszek
+1. Podsmaż kurczaka z kuminem. Dodaj groszek
 2. Dodaj makaron i sos (mleczko + ser)

@@ -1,11 +1,11 @@
-# Recipe: Salatka z Resztek
+# Recipe: Sałatka z Resztek
 tags: lunch
 time: 5 min
 source: exhto
 
 ## Ingredients
-- [ ] Resztki salat, makaronu, warzyw
-- [ ] Nasiona, ziola
+- [ ] Resztki sałat, makaronu, warzyw
+- [ ] Nasiona, zioła
 - [ ] Sos Vinaigrette (ocet balsamiczny, oliwa, musztarda, syrop)
 
 ## Steps

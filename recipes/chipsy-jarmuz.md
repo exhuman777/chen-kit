@@ -1,14 +1,14 @@
-# Recipe: Chipsy z Jarmuzu
+# Recipe: Chipsy z Jarmużu
 tags: snack
 time: 20 min
 source: exhto
 
 ## Ingredients
-- [ ] Jarmuz
+- [ ] Jarmuż
 - [ ] Olej kokosowy
-- [ ] Sok z limonki, sol, kurkuma
+- [ ] Sok z limonki, sól, kurkuma
 - [ ] Algi morskie (opcjonalnie)
 
 ## Steps
-1. Wymieszaj jarmuz z olejem i przyprawami
+1. Wymieszaj jarmuż z olejem i przyprawami
 2. Piecz 10-15 min (160C)

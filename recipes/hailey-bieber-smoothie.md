@@ -4,10 +4,10 @@ time: 5 min
 source: exhto
 
 ## Ingredients
-- [ ] Mleko migdalowe
-- [ ] Mrozony banan, truskawki
+- [ ] Mleko migdałowe
+- [ ] Mrożony banan, truskawki
 - [ ] Daktyle, wanilia
-- [ ] Maslo migdalowe
+- [ ] Masło migdałowe
 
 ## Steps
-1. Zblenduj wszystko do gladkosci. Podawaj od razu
+1. Zblenduj wszystko do gładkości. Podawaj od razu

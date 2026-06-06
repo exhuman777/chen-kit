@@ -1,12 +1,12 @@
-# Recipe: Turbo smoothie energetyzujace
+# Recipe: Turbo smoothie energetyzujące
 tags: breakfast, drink
 time: 5 min
 source: exhto
 
 ## Ingredients
 - [ ] Banan, szpinak, imbir
-- [ ] Mleko roslinne
-- [ ] Maslo orzechowe
+- [ ] Mleko roślinne
+- [ ] Masło orzechowe
 - [ ] Spirulina lub chlorella (opcjonalnie)
 
 ## Steps

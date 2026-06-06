@@ -4,9 +4,9 @@ time: 10 min
 source: exhto
 
 ## Ingredients
-- [ ] 1/2 lyzeczki kuminu
-- [ ] 1/2 lyzeczki nasion kolendry
-- [ ] 1/2 lyzeczki kopru wloskiego
+- [ ] 1/2 łyżeczki kuminu
+- [ ] 1/2 łyżeczki nasion kolendry
+- [ ] 1/2 łyżeczki kopru włoskiego
 - [ ] Woda
 
 ## Steps

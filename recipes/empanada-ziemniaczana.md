@@ -5,8 +5,8 @@ source: exhto
 
 ## Ingredients
 - [ ] Marchewka, ziemniak (gotowane)
-- [ ] Tofu wedzone (smazone z curry i sosem sojowym)
-- [ ] Maka kukurydziana biala, woda (Ciasto)
+- [ ] Tofu wędzone (smażone z curry i sosem sojowym)
+- [ ] Mąka kukurydziana biała, woda (Ciasto)
 
 ## Steps
-1. Zrob ciasto. Wypelnij farszem. Smaz pierogi na oliwie
+1. Zrób ciasto. Wypełnij farszem. Smaż pierogi na oliwie

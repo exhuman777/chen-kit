@@ -4,11 +4,11 @@ time: 25 min
 source: exhto
 
 ## Ingredients
-- [ ] Tofu wedzony lub naturalne
+- [ ] Tofu wędzony lub naturalne
 - [ ] Passata pomidorowa
 - [ ] Cebula, czosnek, bazylia
-- [ ] Oliwa, sol, pieprz
+- [ ] Oliwa, sól, pieprz
 
 ## Steps
-1. Podsmaż tofu na zloty kolor. Odloz
-2. Podsmaż cebule i czosnek. Wlej passate. Dodaj tofu. Dusz 10 min
+1. Podsmaż tofu na złoty kolor. Odłóż
+2. Podsmaż cebulę i czosnek. Wlej passatę. Dodaj tofu. Duś 10 min

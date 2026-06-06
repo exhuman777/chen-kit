@@ -4,11 +4,11 @@ time: 20 min
 source: exhto
 
 ## Ingredients
-- [ ] Buleczki hot-dogowe
-- [ ] Parowki weganskie
-- [ ] Sos: cebula, kumin, soczewica brazowa, passata, ser weganski
+- [ ] Bułeczki hot-dogowe
+- [ ] Parówki wegańskie
+- [ ] Sos: cebula, kumin, soczewica brązowa, passata, ser wegański
 
 ## Steps
-1. Zrob sos z soczewicy i passaty
-2. Podgrzej bulki i parowki
-3. Zloz hot-doga
+1. Zrób sos z soczewicy i passaty
+2. Podgrzej bułki i parówki
+3. Złóż hot-doga

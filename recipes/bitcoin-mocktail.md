@@ -4,10 +4,10 @@ time: 5 min
 source: exhto
 
 ## Ingredients
-- [ ] Miod z kurkuma i limonka
+- [ ] Miód z kurkumą i limonką
 - [ ] Syrop rozmarynowy
-- [ ] Sok jablkowy z rokitnikiem
+- [ ] Sok jabłkowy z rokitnikiem
 - [ ] Woda gazowana
 
 ## Steps
-1. Wymieszaj wszystkie skladniki
+1. Wymieszaj wszystkie składniki

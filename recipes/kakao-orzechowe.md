@@ -1,12 +1,12 @@
-# Recipe: Kakao z maslem orzechowym
+# Recipe: Kakao z masłem orzechowym
 tags: drink
 time: 5 min
 source: exhto
 
 ## Ingredients
-- [ ] Mleko roslinne
+- [ ] Mleko roślinne
 - [ ] Kakao
-- [ ] Maslo orzechowe (UWAGA: unikac wg zasad)
+- [ ] Masło orzechowe (UWAGA: unikać wg zasad)
 - [ ] Syrop daktylowy
 
 ## Steps

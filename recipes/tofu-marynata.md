@@ -9,5 +9,5 @@ source: exhto
 - [ ] Marynata: oliwa, syrop klonowy, tamari, czosnek, szalotki, musztarda
 
 ## Steps
-1. Marynuj tofu cala noc
-2. Smaz dolewajac marynate. Na koniec dodaj miso z woda
+1. Marynuj tofu całą noc
+2. Smaż dolewając marynatę. Na koniec dodaj miso z wodą

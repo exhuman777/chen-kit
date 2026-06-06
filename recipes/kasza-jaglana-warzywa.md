@@ -10,5 +10,5 @@ source: exhto
 - [ ] Ghee, kmin, kurkuma
 
 ## Steps
-1. Podsmaz przyprawy i warzywa
-2. Gotuj z kasza i bulionem
+1. Podsmaż przyprawy i warzywa
+2. Gotuj z kaszą i bulionem

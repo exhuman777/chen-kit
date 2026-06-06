@@ -1,27 +1,27 @@
-# Recipe: Mac n Cheese burger w paczku
+# Recipe: Mac n Cheese burger w pączku
 tags: dinner, cheat-meal
 time: 40 min
 source: exhto
 
 ## Ingredients
-- [ ] Domowy paczek
-- [ ] 2 lyzki weganskiego majonezu
-- [ ] 2 lyzeczki musztardy sarepskiej
-- [ ] 2 ogorki malosolne
-- [ ] 1/4 bialej cebulki
+- [ ] Domowy pączek
+- [ ] 2 łyżki wegańskiego majonezu
+- [ ] 2 łyżeczki musztardy sarepskiej
+- [ ] 2 ogórki małosolne
+- [ ] 1/4 białej cebulki
 - [ ] sok z 1/4 limonki
 - [ ] Burger Plantway
 - [ ] 150 g makaronu gomitini
-- [ ] 50 g weganskiego sera
-- [ ] 100 ml mleka migdalowego
-- [ ] lyzeczka kurkumy
+- [ ] 50 g wegańskiego sera
+- [ ] 100 ml mleka migdałowego
+- [ ] łyżeczka kurkumy
 - [ ] pieprz
 
 ## Steps
-1. Przygotuj sos ogorkowo-cebulkowy (majonez, musztarda, ogorki, cebula, limonka)
-2. Usmaz burgera
-3. Przygotuj Mac n Cheese: podgrzej makaron, ser, mleko, kurkume i pieprz
-4. Zloz: Paczek, sos, burger, sos, mac n cheese, paczek z lukrem
+1. Przygotuj sos ogórkowo-cebulkowy (majonez, musztarda, ogórki, cebula, limonka)
+2. Usmaż burgera
+3. Przygotuj Mac n Cheese: podgrzej makaron, ser, mleko, kurkumę i pieprz
+4. Złóż: Pączek, sos, burger, sos, mac n cheese, pączek z lukrem
 
 ## Notes
-UWAGA: Przepis lamie zasade "Cukier + Maka + Tluszcz". Traktowac jako odstepstwo.
+UWAGA: Przepis łamie zasadę "Cukier + Mąka + Tłuszcz". Traktować jako odstępstwo.

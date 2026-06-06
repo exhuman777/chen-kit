@@ -5,12 +5,12 @@ source: exhto
 
 ## Ingredients
 - [ ] Ziemniaki, kumin, oregano
-- [ ] Biala fasola, kukurydza
+- [ ] Biała fasola, kukurydza
 - [ ] Piwo Corona (200ml), limonka
-- [ ] Jarmuz
-- [ ] Sznycel weganski (smazony)
-- [ ] Rzodkiewka, kapusta czerwona, awokado (salatka)
+- [ ] Jarmuż
+- [ ] Sznycel wegański (smażony)
+- [ ] Rzodkiewka, kapusta czerwona, awokado (sałatka)
 
 ## Steps
-1. Ugotuj zupe (ziemniaki, fasola, piwo)
-2. Podawaj ze sznyclem i salatka
+1. Ugotuj zupę (ziemniaki, fasola, piwo)
+2. Podawaj ze sznyclem i sałatką

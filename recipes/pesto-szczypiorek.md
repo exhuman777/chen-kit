@@ -1,4 +1,4 @@
-# Recipe: Pesto ze szczypiorku z fasolka szparagowa
+# Recipe: Pesto ze szczypiorku z fasolką szparagową
 tags: lunch, side
 time: 15 min
 source: exhto
@@ -6,7 +6,7 @@ source: exhto
 ## Ingredients
 - [ ] Szczypiorek
 - [ ] Fasolka szparagowa (ugotowana)
-- [ ] Orzechy, parmezan (UWAGA: unikac sera wg zasad)
+- [ ] Orzechy, parmezan (UWAGA: unikać sera wg zasad)
 - [ ] Oliwa, cytryna
 
 ## Steps

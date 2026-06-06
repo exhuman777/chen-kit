@@ -1,17 +1,17 @@
-# Recipe: Miska z chrupiacym tofu
+# Recipe: Miska z chrupiącym tofu
 tags: lunch, dinner
 time: 30 min
 source: exhto
 
 ## Ingredients
-- [ ] Wedzone tofu
+- [ ] Wędzone tofu
 - [ ] Sos sojowy, oliwa, syrop klonowy, czosnek, imbir (marynata)
 - [ ] Skrobia kukurydziana
 - [ ] Sriracha, olej sezamowy (sos)
-- [ ] Ryz, Kimchi, Warzywa
+- [ ] Ryż, Kimchi, Warzywa
 
 ## Steps
 1. Zamarynuj tofu (15 min). Obtocz w skrobi
-2. Smaz na chrupiaczo (5-7 min)
-3. Zrob sos ze srirachy, sosu sojowego, syropu i oleju
-4. Podawaj na ryzu z warzywami
+2. Smaż na chrupiaczo (5-7 min)
+3. Zrób sos ze srirachy, sosu sojowego, syropu i oleju
+4. Podawaj na ryżu z warzywami

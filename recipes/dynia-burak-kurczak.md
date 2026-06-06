@@ -5,14 +5,14 @@ source: exhto
 
 ## Ingredients
 - [ ] 1 dynia hokkaido
-- [ ] 2 male buraki
-- [ ] Rozmaryn, kumin, curry, sol
+- [ ] 2 małe buraki
+- [ ] Rozmaryn, kumin, curry, sól
 - [ ] Oliwa, woda
-- [ ] Roslinny kurczak (np. Plantway)
+- [ ] Roślinny kurczak (np. Plantway)
 - [ ] Awokado, cebula, pomidor, limonka (Guacamole)
-- [ ] Sloiczek karczochow w oleju
+- [ ] Słoiczek karczochów w oleju
 
 ## Steps
-1. Piecz dynie i buraki z przyprawami i woda (45 min, 180C)
-2. Usmaz kurczaka. Zrob guacamole
-3. Uloz w misce: pieczone warzywa, kurczak, guacamole, karczochy
+1. Piecz dynię i buraki z przyprawami i wodą (45 min, 180C)
+2. Usmaż kurczaka. Zrób guacamole
+3. Ułóż w misce: pieczone warzywa, kurczak, guacamole, karczochy

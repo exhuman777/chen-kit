@@ -11,4 +11,4 @@ source: exhto
 
 ## Steps
 1. Marynuj tofu w przyprawach. Piecz lub smaż
-2. Podsmaż cebule i papryke. Podawaj w picie z sosem
+2. Podsmaż cebulę i paprykę. Podawaj w picie z sosem

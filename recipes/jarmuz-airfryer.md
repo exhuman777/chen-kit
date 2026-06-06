@@ -1,10 +1,10 @@
-# Recipe: Jarmuz z airfryera
+# Recipe: Jarmuż z airfryera
 tags: snack
 time: 10 min
 source: exhto
 
 ## Ingredients
-- [ ] Jarmuz
+- [ ] Jarmuż
 - [ ] Olej
 - [ ] Przyprawy
 

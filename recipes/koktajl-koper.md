@@ -1,13 +1,13 @@
-# Recipe: Koktajl z koprem wloskim
+# Recipe: Koktajl z koprem włoskim
 tags: drink
 time: 5 min
 source: exhto
 
 ## Ingredients
-- [ ] Koper wloski (bulwa)
-- [ ] Jablko, ogorek
+- [ ] Koper włoski (bulwa)
+- [ ] Jabłko, ogórek
 - [ ] Cytryna, imbir
 - [ ] Woda lub woda kokosowa
 
 ## Steps
-1. Zblenduj wszystko. Przecedz lub pij z miazszem
+1. Zblenduj wszystko. Przecedź lub pij z miąższem

@@ -5,12 +5,12 @@ source: exhto
 
 ## Ingredients
 - [ ] Olej kokosowy
-- [ ] 2 lyzki syropu klonowego
-- [ ] 10 orzechow pecan
+- [ ] 2 łyżki syropu klonowego
+- [ ] 10 orzechów pecan
 - [ ] Cynamon
-- [ ] 2 szklanki mleka migdalowego
+- [ ] 2 szklanki mleka migdałowego
 - [ ] 3 daktyle
 
 ## Steps
-1. Podsmaz orzechy z syropem i cynamonem na oleju (5 min)
+1. Podsmaż orzechy z syropem i cynamonem na oleju (5 min)
 2. Zblenduj z mlekiem i daktylami

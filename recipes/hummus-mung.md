@@ -7,8 +7,8 @@ source: PDF ayurvedic
 - [ ] Fasola mung (ugotowana)
 - [ ] Tahini, cytryna
 - [ ] Czosnek, kmin
-- [ ] Oliwa, sol
+- [ ] Oliwa, sól
 
 ## Steps
-1. Zblenduj mung z tahini, cytryna i przyprawami
-2. Dodawaj oliwe do konsystencji. Podawaj z warzywami
+1. Zblenduj mung z tahini, cytryną i przyprawami
+2. Dodawaj oliwę do konsystencji. Podawaj z warzywami

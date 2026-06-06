@@ -4,11 +4,11 @@ time: 25 min
 source: exhto
 
 ## Ingredients
-- [ ] Makaron (dowolny krotki)
+- [ ] Makaron (dowolny krótki)
 - [ ] Cebula, czosnek, pomidory
 - [ ] Bulion warzywny
-- [ ] Szpinak, platki drozdowe
+- [ ] Szpinak, płatki drożdżowe
 
 ## Steps
-1. Podsmaż cebule i czosnek. Dodaj pomidory i bulion
-2. Wrzuc makaron, gotuj do miekkosci. Dodaj szpinak i platki
+1. Podsmaż cebulę i czosnek. Dodaj pomidory i bulion
+2. Wrzuć makaron, gotuj do miękkości. Dodaj szpinak i płatki

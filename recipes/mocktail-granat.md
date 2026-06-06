@@ -5,9 +5,9 @@ source: exhto
 
 ## Ingredients
 - [ ] Melasa z buraka
-- [ ] Sok z granatow
+- [ ] Sok z granatów
 - [ ] Sok z limonki
 - [ ] Woda gazowana
 
 ## Steps
-1. Wymieszaj skladniki w szklance
+1. Wymieszaj składniki w szklance

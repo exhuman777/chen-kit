@@ -5,11 +5,11 @@ source: exhto
 
 ## Ingredients
 - [ ] 2 tortille
-- [ ] Ciecierzyca, szalotka, oregano, gochugaru (smazone)
+- [ ] Ciecierzyca, szalotka, oregano, gochugaru (smażone)
 - [ ] Pistacje (moczone), mleko, awokado, koperek (krem)
 - [ ] Limonka
 
 ## Steps
-1. Podsmaz ciecierzyca z przyprawami
+1. Podsmaż ciecierzycę z przyprawami
 2. Zblenduj krem pistacjowo-awokadowy
-3. Zloz tortille
+3. Złóż tortille

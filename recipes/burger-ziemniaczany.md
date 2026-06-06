@@ -4,14 +4,14 @@ time: 40 min
 source: exhto
 
 ## Ingredients
-- [ ] Bulka hamburgerowa
-- [ ] Sos ogorkowo-cebulkowy
+- [ ] Bułka hamburgerowa
+- [ ] Sos ogórkowo-cebulkowy
 - [ ] Kotlet Beyond (300g)
-- [ ] Kotlet ziemniaczany (ziemniaki, maka)
+- [ ] Kotlet ziemniaczany (ziemniaki, mąka)
 - [ ] Sos orzechowo-sezamowy
-- [ ] Ser weganski
+- [ ] Ser wegański
 
 ## Steps
-1. Usmaz kotlety Beyond
-2. Zrob kotlety ziemniaczane i usmaz
-3. Zloz burgera z dwoma rodzajami sosow
+1. Usmaż kotlety Beyond
+2. Zrób kotlety ziemniaczane i usmaż
+3. Złóż burgera z dwoma rodzajami sosów

@@ -1,14 +1,14 @@
-# Recipe: Szyszki miodowe (weganski miod)
+# Recipe: Szyszki miodowe (wegański miód)
 tags: dessert, snack
 time: 15 min
 source: exhto
 
 ## Ingredients
-- [ ] Platki kukurydziane
-- [ ] Weganski miod lub syrop klonowy
-- [ ] Maslo orzechowe
+- [ ] Płatki kukurydziane
+- [ ] Wegański miód lub syrop klonowy
+- [ ] Masło orzechowe
 - [ ] Czekolada (do zanurzenia)
 
 ## Steps
-1. Wymieszaj platki z miodem i maslem. Uformuj szyszki
-2. Zanurz w czekoladzie. Schlodz
+1. Wymieszaj płatki z miodem i masłem. Uformuj szyszki
+2. Zanurz w czekoladzie. Schłodź

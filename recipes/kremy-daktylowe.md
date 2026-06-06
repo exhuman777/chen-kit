@@ -5,9 +5,9 @@ source: exhto
 
 ## Ingredients
 - [ ] Daktyle (namoczone)
-- [ ] Maslo orzechowe lub tahini
+- [ ] Masło orzechowe lub tahini
 - [ ] Kakao lub wanilia
 - [ ] Szczypta soli
 
 ## Steps
-1. Zblenduj wszystko do gladkosci. Schlodz. Podawaj jako dip
+1. Zblenduj wszystko do gładkości. Schłódź. Podawaj jako dip

@@ -1,14 +1,14 @@
-# Recipe: Wspomagajacy Ogien Trawienny Ryz Sniadaniowy
+# Recipe: Wspomagający Ogień Trawienny Ryż Śniadaniowy
 tags: breakfast, ayurveda
 time: 25 min
 source: exhto
 
 ## Ingredients
-- [ ] 100g ryzu jasminowego/basmati
+- [ ] 100g ryżu jaśminowego/basmati
 - [ ] 50 ml mleka kokosowego
 - [ ] 400 ml wody
 - [ ] Kurkuma, cynamon, imbir, pieprz
 
 ## Steps
-1. Podgrzej oliwe z przyprawami
-2. Dodaj ryz, wode i mleko. Gotuj 15 min
+1. Podgrzej oliwę z przyprawami
+2. Dodaj ryż, wodę i mleko. Gotuj 15 min

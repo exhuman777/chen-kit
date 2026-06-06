@@ -4,12 +4,12 @@ time: 20 min
 source: exhto
 
 ## Ingredients
-- [ ] Platki owsiane
+- [ ] Płatki owsiane
 - [ ] Daktyle
-- [ ] Maslo orzechowe (UWAGA: unikac wg zasad)
+- [ ] Masło orzechowe (UWAGA: unikać wg zasad)
 - [ ] Cynamon, kardamon, kakao
 
 ## Steps
-1. Zrob krem z owsianki i masla orzechowego
-2. Zrob ciasto z platkow i daktyli
-3. Posmaruj, zwin, schlodz
+1. Zrób krem z owsianki i masła orzechowego
+2. Zrób ciasto z płatków i daktyli
+3. Posmaruj, zwiń, schłódź

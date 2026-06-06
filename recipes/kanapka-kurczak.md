@@ -5,9 +5,9 @@ source: exhto
 
 ## Ingredients
 - [ ] Bagietka
-- [ ] Kurczak gyros Plantway (usmazony z cebula i curry)
-- [ ] Salata, ser weganski
-- [ ] Sos (majonez, tabasco, ogorki)
+- [ ] Kurczak gyros Plantway (usmażony z cebulą i curry)
+- [ ] Sałata, ser wegański
+- [ ] Sos (majonez, tabasco, ogórki)
 
 ## Steps
-1. Zloz bagietke z dodatkami
+1. Złóż bagietkę z dodatkami

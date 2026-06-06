@@ -7,8 +7,8 @@ source: exhto
 - [ ] Dynia, marchew, cebula, czosnek
 - [ ] Oliwa, tymianek, rozmaryn
 - [ ] Bulion warzywny
-- [ ] Smietanka kokosowa
+- [ ] Śmietanka kokosowa
 
 ## Steps
 1. Piecz warzywa 30 min w 200C. Zblenduj z bulionem
-2. Dodaj smietanke. Podawaj z grzankami
+2. Dodaj śmietankę. Podawaj z grzankami

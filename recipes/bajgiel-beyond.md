@@ -4,15 +4,15 @@ time: 20 min
 source: exhto
 
 ## Ingredients
-- [ ] Bajgiel z makiem (UWAGA: maka pszenna)
-- [ ] Maslo weganskie
-- [ ] Maslo orzechowe, tahini, napoj laskowy (na sos)
-- [ ] Salata rzymska, ogorek swiezy
+- [ ] Bajgiel z makiem (UWAGA: mąka pszenna)
+- [ ] Masło wegańskie
+- [ ] Masło orzechowe, tahini, napój laskowy (na sos)
+- [ ] Sałata rzymska, ogórek świeży
 - [ ] Beyond Meat
 - [ ] Cebula czerwona, curry, pieprz
-- [ ] Ser weganski
+- [ ] Ser wegański
 
 ## Steps
-1. Podsmaz polowki bajgla na masle
-2. Usmaz Beyond z cebula i przyprawami. Roztop na nim ser
-3. Zloz warstwowo z sosem orzechowym i warzywami
+1. Podsmaż połówki bajgla na maśle
+2. Usmaż Beyond z cebulą i przyprawami. Roztop na nim ser
+3. Złóż warstwowo z sosem orzechowym i warzywami

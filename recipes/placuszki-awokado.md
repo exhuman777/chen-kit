@@ -5,12 +5,12 @@ source: exhto
 
 ## Ingredients
 - [ ] Awokado (rozgniecioe)
-- [ ] Lyzka siemienia lnianego + wrzatek
-- [ ] 3 lyzki maki kokosowej
-- [ ] Proszek do pieczenia, sol, pieprz
-- [ ] Jogurt sojowy, ziola, cytryna (do sosu)
+- [ ] Łyżka siemienia lnianego + wrzątek
+- [ ] 3 łyżki mąki kokosowej
+- [ ] Proszek do pieczenia, sól, pieprz
+- [ ] Jogurt sojowy, zioła, cytryna (do sosu)
 
 ## Steps
-1. Wymieszaj awokado, namoczone siemie, make i przyprawy
-2. Smaz male placuszki na oliwie na zloto
-3. Podawaj z sosem (jogurt wymieszany z ziolami i cytryna)
+1. Wymieszaj awokado, namoczone siemię, mąkę i przyprawy
+2. Smaż małe placuszki na oliwie na złoto
+3. Podawaj z sosem (jogurt wymieszany z ziołami i cytryną)

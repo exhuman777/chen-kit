@@ -1,15 +1,15 @@
-# Recipe: Precle na slodko i na slono
+# Recipe: Precle na słodko i na słono
 tags: snack
 time: 90 min
 source: exhto
 
 ## Ingredients
-- [ ] Maka orkiszowa (UWAGA: unikac maki wg zasad)
+- [ ] Mąka orkiszowa (UWAGA: unikać mąki wg zasad)
 - [ ] Drozdzre, cukier kokosowy
-- [ ] Maslo weganskie, mleko owsiane
-- [ ] Cynamon, sol
+- [ ] Masło wegańskie, mleko owsiane
+- [ ] Cynamon, sól
 
 ## Steps
-1. Wyrob ciasto, wyrastaj 1h
+1. Wyrób ciasto, wyrastaj 1h
 2. Formuj precle, obgotuj w wodzie z cukrem
-3. Piecz 13 min (205C). Polej maslem
+3. Piecz 13 min (205C). Polej masłem

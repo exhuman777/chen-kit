@@ -1,4 +1,4 @@
-# Recipe: Dhal Japonski (fuzja)
+# Recipe: Dhal Japoński (fuzja)
 tags: dinner, ayurveda
 time: 40 min
 source: PDF ayurvedic
@@ -11,5 +11,5 @@ source: PDF ayurvedic
 - [ ] Wakame lub nori
 
 ## Steps
-1. Ugotuj soczewice. Dodaj miso (nie gotuj po dodaniu)
+1. Ugotuj soczewicę. Dodaj miso (nie gotuj po dodaniu)
 2. Podawaj z tofu i wodorostami

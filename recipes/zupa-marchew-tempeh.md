@@ -5,10 +5,10 @@ source: exhto
 
 ## Ingredients
 - [ ] Marchewki, cebula, czosnek, batat
-- [ ] Maka kukurydziana (zageszczanie)
-- [ ] Bulion, mleko roslinne
-- [ ] Tempeh (smazony z sosem sojowym i papryka)
+- [ ] Mąka kukurydziana (zagęszczanie)
+- [ ] Bulion, mleko roślinne
+- [ ] Tempeh (smażony z sosem sojowym i papryką)
 - [ ] Cebulka z zalewy (marynowana)
 
 ## Steps
-1. Ugotuj i zblenduj zupe. Podawaj z pieczonym batatem i smaz tempeh
+1. Ugotuj i zblenduj zupę. Podawaj z pieczonym batatem i smaż tempeh

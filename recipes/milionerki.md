@@ -1,12 +1,12 @@
-# Recipe: Weganskie Milionerki
+# Recipe: Wegańskie Milionerki
 tags: dessert
 time: 60 min
 source: exhto
 
 ## Ingredients
-- [ ] Maka, cukier, ksylitol, margaryna (Spod)
-- [ ] Daktyle, maslo weganskie, syrop, maslo pekanowe, aromat (Karmel)
-- [ ] Czekolada weganska, olej (Polewa)
+- [ ] Mąka, cukier, ksylitol, margaryna (Spód)
+- [ ] Daktyle, masło wegańskie, syrop, masło pekanowe, aromat (Karmel)
+- [ ] Czekolada wegańska, olej (Polewa)
 
 ## Steps
-1. Upiecz spod. Posmaruj karmelem z daktyli. Polej czekolada
+1. Upiecz spód. Posmaruj karmelem z daktyli. Polej czekoladą

@@ -1,14 +1,14 @@
-# Recipe: Komfortowe platki jeczmienne
+# Recipe: Komfortowe płatki jęczmienne
 tags: breakfast
 time: 15 min
 source: exhto
 
 ## Ingredients
-- [ ] Platki jeczmienne
+- [ ] Płatki jęczmienne
 - [ ] Mleko owsiane
-- [ ] Gozdziki, cynamon, kardamon
-- [ ] Gruszka, maslo
+- [ ] Goździki, cynamon, kardamon
+- [ ] Gruszka, masło
 
 ## Steps
-1. Ugotuj platki
-2. Podsmaz przyprawy z gruszka na masle
+1. Ugotuj płatki
+2. Podsmaż przyprawy z gruszką na maśle

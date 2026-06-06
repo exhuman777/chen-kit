@@ -1,15 +1,15 @@
-# Recipe: Sloneczne weganskie sniadanko (jajko sadzone)
+# Recipe: Słoneczne wegańskie śniadanko (jajko sadzone)
 tags: breakfast
 time: 30 min
 source: exhto
 
 ## Ingredients
 - [ ] Sos: Pomidor, cebula, czosnek, kumin, oregano
-- [ ] Fasola: Czerwona fasola, mleko roslinne, papryka wedzona
-- [ ] Bialko: Mleko, maka orkiszowa, sol kala namak, skrobia
-- [ ] Zoltko: Marchew/dynia, mleko, platki drozdowe, ocet
+- [ ] Fasola: Czerwona fasola, mleko roślinne, papryka wędzona
+- [ ] Białko: Mleko, mąka orkiszowa, sól kala namak, skrobia
+- [ ] Żółtko: Marchew/dynia, mleko, płatki drożdżowe, ocet
 
 ## Steps
-1. Zrob sos pomidorowy
-2. Usmaz fasole z przyprawami
-3. Usmaz "bialko" z ciasta, na srodek naloz "zoltko" z puree
+1. Zrób sos pomidorowy
+2. Usmaż fasolę z przyprawami
+3. Usmaż "białko" z ciasta, na środek nałóż "żółtko" z puree

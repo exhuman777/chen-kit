@@ -9,6 +9,6 @@ source: exhto
 - [ ] Kurkuma, mleko kokosowe, bulion
 
 ## Steps
-1. Podsmaz cebule, czosnek, imbir
-2. Dodaj dynie, kurkume, bulion. Gotuj 20 min
+1. Podsmaż cebulę, czosnek, imbir
+2. Dodaj dynię, kurkumę, bulion. Gotuj 20 min
 3. Zblenduj, dodaj mleko

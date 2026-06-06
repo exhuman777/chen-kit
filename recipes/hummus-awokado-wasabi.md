@@ -4,17 +4,17 @@ time: 10 min
 source: exhto
 
 ## Ingredients
-- [ ] Sloiczek ciecierzycy (odcedzonej)
-- [ ] Miazssz z 1 awokado
-- [ ] Lyzeczka wasabi
-- [ ] Sok z polowki limonki
-- [ ] Lyzka weganskiego sosu Worcestershire
-- [ ] Lyzka oliwy
+- [ ] Słoiczek ciecierzycy (odcedzonej)
+- [ ] Miążssz z 1 awokado
+- [ ] Łyżeczka wasabi
+- [ ] Sok z połówki limonki
+- [ ] Łyżka wegańskiego sosu Worcestershire
+- [ ] Łyżka oliwy
 - [ ] 50 ml wody
-- [ ] 2 lyzki tahini
-- [ ] Pol zabka czosnku
-- [ ] Sol, pieprz, sezam, koperek
+- [ ] 2 łyżki tahini
+- [ ] Pół ząbka czosnku
+- [ ] Sól, pieprz, sezam, koperek
 
 ## Steps
-1. Zblenduj wszystkie skladniki
-2. Polej oliwa, posyp sezamem i koperkiem
+1. Zblenduj wszystkie składniki
+2. Polej oliwą, posyp sezamem i koperkiem

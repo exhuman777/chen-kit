@@ -4,11 +4,11 @@ time: 30 min
 source: exhto
 
 ## Ingredients
-- [ ] Groszek mrozony, kukurydza
+- [ ] Groszek mrożony, kukurydza
 - [ ] Ziemniaki, cebula, czosnek
 - [ ] Bulion warzywny, mleko kokosowe
 - [ ] Kurkuma, imbir
 
 ## Steps
 1. Ugotuj warzywa w bulionie. Dodaj przyprawy
-2. Zblenduj czesc zupy. Wlej mleko kokosowe
+2. Zblenduj część zupy. Wlej mleko kokosowe

@@ -9,5 +9,5 @@ source: exhto
 - [ ] Cukier puder, wanilia
 
 ## Steps
-1. Ubij aquafabe na sztywna piane. Ostudz czekolade
-2. Delikatnie wmieszaj czekolade do piany. Schlodz 2h
+1. Ubij aquafabę na sztywną pianę. Ostudź czekoladę
+2. Delikatnie wmieszaj czekoladę do piany. Schłodź 2h

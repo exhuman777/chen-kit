@@ -6,11 +6,11 @@ source: exhto
 ## Ingredients
 - [ ] Liofilizowane truskawki
 - [ ] Liofilizowane plastry buraka
-- [ ] Maslo ze slonecznika
-- [ ] Maslo migdalowo-kokosowo-daktylowe
-- [ ] Wiorki kokosowe
+- [ ] Masło ze słonecznika
+- [ ] Masło migdałowo-kokosowo-daktylowe
+- [ ] Wiórki kokosowe
 
 ## Steps
 1. Zmiel truskawki i buraki
-2. Dodaj masla do uzyskania plastycznej masy
-3. Formuj kulki, obtocz w wiorkach
+2. Dodaj masła do uzyskania plastycznej masy
+3. Formuj kulki, obtocz w wiórkach

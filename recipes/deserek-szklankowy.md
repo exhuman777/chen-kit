@@ -5,9 +5,9 @@ source: exhto
 
 ## Ingredients
 - [ ] Herbatniki
-- [ ] Maslo orzechowe
-- [ ] Sos daktylowy (daktyle, mleko, kakao, maslo, czekolada)
-- [ ] Platki kukurydziane (smazone z syropem)
+- [ ] Masło orzechowe
+- [ ] Sos daktylowy (daktyle, mleko, kakao, masło, czekolada)
+- [ ] Płatki kukurydziane (smażone z syropem)
 
 ## Steps
-1. Uloz warstwy w szklance
+1. Ułóż warstwy w szklance

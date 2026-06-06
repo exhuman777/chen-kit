@@ -13,5 +13,5 @@ source: exhto
 
 ## Steps
 1. Ugotuj bulion z daktylami
-2. Podsmaz imbir/czosnek, dodaj soczewice, bulion i ziola
+2. Podsmaż imbir/czosnek, dodaj soczewicę, bulion i zioła
 3. Gotuj 20 min. Dodaj szpinak

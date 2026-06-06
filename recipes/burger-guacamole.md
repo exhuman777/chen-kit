@@ -4,12 +4,12 @@ time: 25 min
 source: exhto
 
 ## Ingredients
-- [ ] Domowa bulka burgerowa
+- [ ] Domowa bułka burgerowa
 - [ ] Sos tahini
-- [ ] Salata, pomidor, karmelizowana cebulka
+- [ ] Sałata, pomidor, karmelizowana cebulka
 - [ ] Beyond Meat
-- [ ] Weganski ser
+- [ ] Wegański ser
 - [ ] Guacamole
 
 ## Steps
-1. Zloz burgera wg listy skladnikow
+1. Złóż burgera wg listy składników

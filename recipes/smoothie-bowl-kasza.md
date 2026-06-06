@@ -1,13 +1,13 @@
-# Recipe: Smoothie bowl z kasza jaglana
+# Recipe: Smoothie bowl z kaszą jaglaną
 tags: breakfast
 time: 15 min
 source: exhto
 
 ## Ingredients
 - [ ] Kasza jaglana (ugotowana)
-- [ ] Mrozone owoce (jagody, banan)
-- [ ] Mleko roslinne
+- [ ] Mrożone owoce (jagody, banan)
+- [ ] Mleko roślinne
 - [ ] Toppings: orzechy, nasiona, owoce
 
 ## Steps
-1. Zblenduj kasze z owocami i mlekiem. Przeloz do miski. Udekoruj
+1. Zblenduj kaszę z owocami i mlekiem. Przełóż do miski. Udekoruj

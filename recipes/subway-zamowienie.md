@@ -1,4 +1,4 @@
-# Recipe: Kanapka Subway (Zamowienie)
+# Recipe: Kanapka Subway (Zamówienie)
 tags: lunch, fast-food
 time: 0 min
 source: exhto
@@ -7,9 +7,9 @@ source: exhto
 - [ ] Ciemne pieczywo z nasionami (15 lub 30 cm)
 - [ ] Sojowe Teriyaki
 - [ ] Awokado
-- [ ] Salata, ogorek kiszony, papryka, oliwki
-- [ ] Jalapeno, oregano, prazona cebulka
+- [ ] Sałata, ogórek kiszony, papryka, oliwki
+- [ ] Jalapeno, oregano, prażona cebulka
 - [ ] Sosy: Sweet Onion, Vegan Garlic Aioli
 
 ## Notes
-To gotowe zamowienie w restauracji Subway
+To gotowe zamówienie w restauracji Subway

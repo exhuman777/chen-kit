@@ -4,13 +4,13 @@ time: 40 min
 source: exhto
 
 ## Ingredients
-- [ ] Skladniki z linku zrodlowego (maka, cukier, cynamon)
+- [ ] Składniki z linku źródłowego (mąka, cukier, cynamon)
 - [ ] Margaryna Alsan (zamiast oleju)
-- [ ] Czekolada rozowa i biala (polewa)
+- [ ] Czekolada różowa i biała (polewa)
 
 ## Steps
-1. Przygotuj ciasto wg przepisu (link w notatkach), uzywajac margaryny
-2. Piecz 30 min. Polej czekolada
+1. Przygotuj ciasto wg przepisu (link w notatkach), używając margaryny
+2. Piecz 30 min. Polej czekoladą
 
 ## Notes
 Modyfikacja przepisu z wegeprzepis.pl

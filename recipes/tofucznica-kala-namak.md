@@ -5,11 +5,11 @@ source: exhto
 
 ## Ingredients
 - [ ] Tofu naturalne
-- [ ] Cebula, maslo weganskie
-- [ ] Curry, sol kala namak (2-4 szczypty)
-- [ ] Mleko owsiane, platki drozdowe
+- [ ] Cebula, masło wegańskie
+- [ ] Curry, sól kala namak (2-4 szczypty)
+- [ ] Mleko owsiane, płatki drożdżowe
 - [ ] Szczypiorek
 
 ## Steps
-1. Podsmaz cebule z curry i kala namak
-2. Dodaj tofu. Wlej mleko i platki. Smaz 5 min
+1. Podsmaż cebulę z curry i kala namak
+2. Dodaj tofu. Wlej mleko i płatki. Smaż 5 min

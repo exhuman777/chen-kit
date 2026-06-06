@@ -4,10 +4,10 @@ time: 15 min
 source: exhto
 
 ## Ingredients
-- [ ] Tortilla szpinakowa lub zwykla
+- [ ] Tortilla szpinakowa lub zwykła
 - [ ] Hummus, awokado
-- [ ] Salata, ogorek, kielki
+- [ ] Sałata, ogórek, kiełki
 - [ ] Tofu lub falafel
 
 ## Steps
-1. Posmaruj tortille hummusem. Uloz skladniki. Zwin
+1. Posmaruj tortillę hummusem. Ułóż składniki. Zwiń

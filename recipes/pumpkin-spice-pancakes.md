@@ -4,9 +4,9 @@ time: 20 min
 source: exhto
 
 ## Ingredients
-- [ ] Platki owsiane, banan, puree dyniowe
+- [ ] Płatki owsiane, banan, puree dyniowe
 - [ ] Przyprawa do ciasta dyniowego
-- [ ] Jogurt weganski (do podania)
+- [ ] Jogurt wegański (do podania)
 
 ## Steps
-1. Zblenduj skladniki. Smaz na patelni. Podawaj z jogurtem
+1. Zblenduj składniki. Smaż na patelni. Podawaj z jogurtem

@@ -7,8 +7,8 @@ source: exhto
 - [ ] Pieczarki (250 g)
 - [ ] Czosnek, imbir
 - [ ] Sos sojowy, oliwa
-- [ ] Ciasto wonton (z przepisu zewnetrznego)
+- [ ] Ciasto wonton (z przepisu zewnętrznego)
 
 ## Steps
-1. Zrob farsz (smaz pieczarki)
-2. Lep pierozki. Smaz na patelni z dodatkiem wody (parowanie)
+1. Zrób farsz (smaż pieczarki)
+2. Lep pierożki. Smaż na patelni z dodatkiem wody (parowanie)

@@ -4,10 +4,10 @@ time: 30 min
 source: exhto
 
 ## Ingredients
-- [ ] Ryz dmuchany, platki owsiane, kakao
-- [ ] Maslo orzechowe, syrop klonowy
-- [ ] Czekolada weganska (polewa)
+- [ ] Ryż dmuchany, płatki owsiane, kakao
+- [ ] Masło orzechowe, syrop klonowy
+- [ ] Czekolada wegańska (polewa)
 
 ## Steps
-1. Wymieszaj suche skladniki. Polacz z maslem i syropem
-2. Uformuj batoniki. Polej czekolada. Schlodz
+1. Wymieszaj suche składniki. Połącz z masłem i syropem
+2. Uformuj batoniki. Polej czekoladą. Schłódź

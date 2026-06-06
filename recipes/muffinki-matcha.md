@@ -1,12 +1,12 @@
-# Recipe: Weganskie Muffinki z matcha i truskawkami
+# Recipe: Wegańskie Muffinki z matcha i truskawkami
 tags: dessert
 time: 35 min
 source: exhto
 
 ## Ingredients
-- [ ] Maka pszenna
+- [ ] Mąka pszenna
 - [ ] Matcha, cukier
-- [ ] Mleko roslinne, olej
+- [ ] Mleko roślinne, olej
 - [ ] Truskawki
 
 ## Steps

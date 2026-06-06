@@ -1,14 +1,14 @@
-# Recipe: Kotleciki z ryzu i batata
+# Recipe: Kotleciki z ryżu i batata
 tags: dinner
 time: 40 min
 source: exhto
 
 ## Ingredients
-- [ ] Ryz ugotowany
+- [ ] Ryż ugotowany
 - [ ] Batat pieczony (zmiksowany)
-- [ ] Platki owsiane, przyprawy
-- [ ] Olej do smazenia
+- [ ] Płatki owsiane, przyprawy
+- [ ] Olej do smażenia
 
 ## Steps
-1. Wymieszaj ryz z batatem i platkami. Dodaj przyprawy
-2. Formuj kotleciki. Smaż na zloty kolor z kazdej strony
+1. Wymieszaj ryż z batatem i płatkami. Dodaj przyprawy
+2. Formuj kotleciki. Smaż na złoty kolor z każdej strony

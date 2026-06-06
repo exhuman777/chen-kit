@@ -10,5 +10,5 @@ source: exhto
 - [ ] Mleko kokosowe, curry, limonka
 
 ## Steps
-1. Podsmaz warzywa
-2. Dodaj mleko i fasolke. Gotuj 10 min
+1. Podsmaż warzywa
+2. Dodaj mleko i fasolkę. Gotuj 10 min

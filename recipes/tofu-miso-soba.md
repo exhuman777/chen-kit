@@ -11,5 +11,5 @@ source: exhto
 - [ ] Makaron soba
 
 ## Steps
-1. Smaz rozkruszone tofu z przyprawami
+1. Smaż rozkruszone tofu z przyprawami
 2. Dodaj sos miso. Podawaj z makaronem

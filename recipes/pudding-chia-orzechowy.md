@@ -4,16 +4,16 @@ time: 15 min + chlodzenie
 source: exhto
 
 ## Ingredients
-- [ ] 3 lyzki nasion chia
-- [ ] 2 lyzki tahini
-- [ ] 2 lyzki orzechow laskowych
+- [ ] 3 łyżki nasion chia
+- [ ] 2 łyżki tahini
+- [ ] 2 łyżki orzechów laskowych
 - [ ] Szklanka wody
-- [ ] Kurkuma, sol
+- [ ] Kurkuma, sól
 - [ ] 3 daktyle (do kremu)
-- [ ] 1/3 mleka z orzechow laskowych
-- [ ] Maslo orzechowe (do kremu - UWAGA: unikac wg zasad)
+- [ ] 1/3 mleka z orzechów laskowych
+- [ ] Masło orzechowe (do kremu - UWAGA: unikać wg zasad)
 
 ## Steps
-1. Pudding: Zblenduj chia, tahini, orzechy, wode, kurkume. Odstaw do lodowki na 3-4h (mieszaj co godzine)
-2. Krem: Zblenduj daktyle, mleko, maslo orzechowe, wanilie
+1. Pudding: Zblenduj chia, tahini, orzechy, wodę, kurkumę. Odstaw do lodówki na 3-4h (mieszaj co godzinę)
+2. Krem: Zblenduj daktyle, mleko, masło orzechowe, wanilię
 3. Podawaj pudding z kremem i dodatkami (truskawki, kakao)

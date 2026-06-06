@@ -4,12 +4,12 @@ time: 45 min
 source: PDF ayurvedic
 
 ## Ingredients
-- [ ] Fasola mung zolta (1.5 kubka)
+- [ ] Fasola mung żółta (1.5 kubka)
 - [ ] Pomidory, cebula, czosnek
 - [ ] Ghee, kurkuma, garam masala
-- [ ] Imbir, lisc laurowy, chili
-- [ ] Kolendra swieza
+- [ ] Imbir, liść laurowy, chili
+- [ ] Kolendra świeża
 
 ## Steps
-1. Ugotuj mung do miekkosci. Przygotuj tadka (ghee z przyprawami)
-2. Polacz. Gotuj 10 min. Posyp kolendra
+1. Ugotuj mung do miękkości. Przygotuj tadka (ghee z przyprawami)
+2. Połącz. Gotuj 10 min. Posyp kolendrą

@@ -1,4 +1,4 @@
-# Recipe: Kremowy Weganski Makaron ze szpinakiem i tymiankiem
+# Recipe: Kremowy Wegański Makaron ze szpinakiem i tymiankiem
 tags: lunch, dinner
 time: 25 min
 source: exhto
@@ -6,10 +6,10 @@ source: exhto
 ## Ingredients
 - [ ] Makaron fusilli
 - [ ] Orzechy nerkowca (moczone)
-- [ ] Mleko sojowe, platki drozdowe
-- [ ] Tymianek, koper wloski, szpinak
+- [ ] Mleko sojowe, płatki drożdżowe
+- [ ] Tymianek, koper włoski, szpinak
 
 ## Steps
 1. Zblenduj nerkowce na sos
-2. Podsmaz cebule i ziola
+2. Podsmaż cebulę i zioła
 3. Dodaj sos i szpinak. Wymieszaj z makaronem

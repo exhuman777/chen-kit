@@ -4,11 +4,11 @@ time: 30 min
 source: exhto
 
 ## Ingredients
-- [ ] Baza: ryz, komosa lub kasza
-- [ ] Bialko: tofu, tempeh lub roslinna alternatywa
+- [ ] Baza: ryż, komosa lub kasza
+- [ ] Białko: tofu, tempeh lub roślinna alternatywa
 - [ ] Warzywa: pieczone lub surowe
 - [ ] Sos: tahini, orzechowy lub azjatycki
 
 ## Steps
-1. Przygotuj baze. Usmaż bialko. Przygotuj warzywa
-2. Uloz w misce. Polej sosem. Posyp nasionami
+1. Przygotuj bazę. Usmaż białko. Przygotuj warzywa
+2. Ułóż w misce. Polej sosem. Posyp nasionami

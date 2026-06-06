@@ -4,12 +4,12 @@ time: 40 min
 source: exhto
 
 ## Ingredients
-- [ ] Sloik ciecierzycy
+- [ ] Słoik ciecierzycy
 - [ ] Czosnek, cebula, natka pietruszki
-- [ ] 2 lyzki maki pszennej
+- [ ] 2 łyżki mąki pszennej
 - [ ] Kmin rzymski
-- [ ] Ogorek, jogurt roslinny (tzatziki)
+- [ ] Ogórek, jogurt roślinny (tzatziki)
 
 ## Steps
-1. Zmiksuj skladniki na kotlety. Formuj i piecz (30 min, 180C)
-2. Zrob tzatziki (starty ogorek + jogurt + czosnek)
+1. Zmiksuj składniki na kotlety. Formuj i piecz (30 min, 180C)
+2. Zrób tzatziki (starty ogórek + jogurt + czosnek)

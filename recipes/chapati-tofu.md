@@ -4,12 +4,12 @@ time: 30 min
 source: exhto
 
 ## Ingredients
-- [ ] 4 lyzki maki orkiszowej (UWAGA: unikac maki wg zasad)
-- [ ] Oliwa, sol, woda (do chapati)
-- [ ] Kostka wedzonego tofu (kruszone)
+- [ ] 4 łyżki mąki orkiszowej (UWAGA: unikać mąki wg zasad)
+- [ ] Oliwa, sól, woda (do chapati)
+- [ ] Kostka wędzonego tofu (kruszone)
 - [ ] Cebula, sos sojowy, syrop klonowy
-- [ ] Papryka wedzona, kolendra, garam masala, kumin
+- [ ] Papryka wędzona, kolendra, garam masala, kumin
 
 ## Steps
-1. Chapati: Zagniec ciasto, usmaz placki na patelni
-2. Tofu: Podsmaz cebule z przyprawami. Dodaj sosy i tofu. Smaz 7-10 min
+1. Chapati: Zagnieć ciasto, usmaż placki na patelni
+2. Tofu: Podsmaż cebulę z przyprawami. Dodaj sosy i tofu. Smaż 7-10 min
